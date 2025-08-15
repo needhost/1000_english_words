@@ -78,6 +78,14 @@ th:hover .sort-icon .lucide-chevrons-up-down {
     opacity: 0.6;
 }
 
+/* Стили для липкой панели поиска */
+.sticky {
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(229, 231, 235, 0.8); /* Легкая граница снизу */
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
 /* Мобильные стили */
 @media screen and (max-width: 640px) {
     /* Уменьшаем отступы для мобильных */
