@@ -1,0 +1,201 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#wordsTable th {
+    transition: background-color 0.2s ease-in-out;
+}
+
+#wordsTable th:hover {
+    background-color: #e5e7eb; /* gray-200 */
+}
+
+#wordsTable tbody tr {
+    transition: background-color 0.2s ease-in-out;
+}
+
+#wordsTable tbody tr:hover {
+    background-color: #f9fafb; /* gray-50 */
+}
+
+/* Фиксированная разметка таблицы */
+#wordsTable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+/* Ширина колонок для десктопа */
+#wordsTable th:nth-child(1),
+#wordsTable td:nth-child(1) {
+    width: 20%; /* Слово */
+}
+
+#wordsTable th:nth-child(2),
+#wordsTable td:nth-child(2) {
+    width: 30%; /* Перевод */
+}
+
+#wordsTable th:nth-child(3),
+#wordsTable td:nth-child(3) {
+    width: 50%; /* Примеры */
+}
+
+/* Правила для переноса длинных слов в колонках */
+#wordsTable td {
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    max-width: 0; /* Принуждает таблицу использовать заданные ширины колонок */
+}
+
+.sort-icon .lucide {
+    width: 16px;
+    height: 16px;
+    color: #9ca3af; /* gray-400 */
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+    transform: translateY(2px);
+}
+
+th[data-sort-dir] .sort-icon .lucide {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+th[data-sort-dir="asc"] .sort-icon .lucide-chevrons-up-down {
+    display: none;
+}
+th[data-sort-dir="desc"] .sort-icon .lucide-chevron-up {
+    display: none;
+}
+th:not([data-sort-dir]) .sort-icon .lucide-chevron-up,
+th:not([data-sort-dir]) .sort-icon .lucide-chevron-down {
+    display: none;
+}
+
+th:hover .sort-icon .lucide-chevrons-up-down {
+    opacity: 0.6;
+}
+
+/* Мобильные стили */
+@media screen and (max-width: 640px) {
+    /* Уменьшаем отступы для мобильных */
+    .container {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+    
+    /* Компактная таблица на мобильных */
+    #wordsTable {
+        font-size: 0.875rem;
+    }
+    
+    #wordsTable th,
+    #wordsTable td {
+        padding: 0.375rem !important;
+    }
+    
+    /* Принудительно применяем ширину колонок */
+    table#wordsTable {
+        table-layout: fixed !important;
+        width: 100% !important;
+    }
+    
+    /* Настройка ширины колонок для мобильных */
+    #wordsTable th:nth-child(1),
+    #wordsTable td:nth-child(1) {
+        width: 26% !important; /* Слово - 26% */
+        padding-left: 0.75rem !important; /* Дополнительный отступ слева для английских слов */
+        padding-right: 0.5rem !important;
+    }
+    
+    #wordsTable th:nth-child(2),
+    #wordsTable td:nth-child(2) {
+        width: 36% !important; /* Перевод - 36% */
+        padding-left: 0.5rem !important; /* Дополнительный отступ для перевода */
+        padding-right: 0.5rem !important;
+    }
+    
+    #wordsTable th:nth-child(3),
+    #wordsTable td:nth-child(3) {
+        width: 38% !important; /* Примеры - 38% */
+        font-size: 0.75rem !important;
+        line-height: 1.2 !important;
+        padding-left: 0.5rem !important; /* Дополнительные отступы для примеров */
+        padding-right: 0.5rem !important;
+        word-wrap: break-word; /* Перенос длинных слов */
+        white-space: pre-line; /* Перенос предложений на новую строку */
+    }
+    
+    /* Увеличиваем высоту строки для лучшего тача */
+    #wordsTable tbody tr {
+        min-height: 3rem;
+    }
+    
+    /* Поисковое поле на мобильных */
+    #searchInput {
+        font-size: 16px; /* Предотвращает зум на iOS */
+    }
+}
+
+/* Стили для очень маленьких экранов */
+@media (max-width: 480px) {
+    #wordsTable th,
+    #wordsTable td {
+        padding: 0.25rem;
+    }
+    
+    /* Еще более компактные размеры для очень маленьких экранов */
+    #wordsTable {
+        font-size: 0.75rem;
+    }
+    
+    /* Дополнительные отступы для английских слов на очень маленьких экранах */
+    #wordsTable th:nth-child(1),
+    #wordsTable td:nth-child(1) {
+        padding-left: 0.5rem;
+        padding-right: 0.375rem;
+    }
+    
+    /* Дополнительные отступы для перевода на очень маленьких экранах */
+    #wordsTable th:nth-child(2),
+    #wordsTable td:nth-child(2) {
+        padding-left: 0.375rem;
+        padding-right: 0.375rem;
+    }
+    
+    /* Дополнительные отступы для примеров на очень маленьких экранах */
+    #wordsTable th:nth-child(3),
+    #wordsTable td:nth-child(3) {
+        font-size: 0.6875rem;
+        line-height: 1.1;
+        padding-left: 0.375rem;
+        padding-right: 0.375rem;
+        word-wrap: break-word;
+        white-space: pre-line; /* Перенос предложений на новую строку */
+    }
+    
+    /* Скрываем иконки сортировки на очень маленьких экранах */
+    .sort-icon {
+        display: none;
+    }
+}
+
+/* Улучшения для touch устройств */
+@media (hover: none) and (pointer: coarse) {
+    /* Увеличиваем область нажатия для заголовков таблицы */
+    #wordsTable th {
+        padding: 0.75rem 0.5rem;
+        min-height: 3rem;
+    }
+    
+    /* Убираем hover эффекты на touch устройствах */
+    #wordsTable th:hover {
+        background-color: #f3f4f6; /* gray-100 */
+    }
+    
+    #wordsTable tbody tr:hover {
+        background-color: white;
+    }
+}

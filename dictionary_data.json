@@ -1,0 +1,4792 @@
+[
+  {
+    "word": "the",
+    "translation": "определенный артикль",
+    "examples": "The cat is sleeping. She is the best person for the job."
+  },
+  {
+    "word": "be",
+    "translation": "быть, являться",
+    "examples": "To be or not to be. They will be here soon."
+  },
+  {
+    "word": "to",
+    "translation": "к, в, на",
+    "examples": "I am going to the store. She gave the book to him."
+  },
+  {
+    "word": "of",
+    "translation": "о, из",
+    "examples": "A man of great wealth. The cover of the book."
+  },
+  {
+    "word": "and",
+    "translation": "и",
+    "examples": "You and I are friends. They sell books and magazines."
+  },
+  {
+    "word": "a",
+    "translation": "неопределенный артикль",
+    "examples": "I saw a dog in the park. She is a doctor."
+  },
+  {
+    "word": "in",
+    "translation": "в",
+    "examples": "The keys are in the box. He lives in London."
+  },
+  {
+    "word": "that",
+    "translation": "тот, та, то",
+    "examples": "I like that car. The book that you gave me was interesting."
+  },
+  {
+    "word": "have",
+    "translation": "иметь",
+    "examples": "I have a new phone. They have two children."
+  },
+  {
+    "word": "I",
+    "translation": "я",
+    "examples": "I am a student. I think you are right."
+  },
+  {
+    "word": "it",
+    "translation": "оно, это",
+    "examples": "It is a beautiful day. I can't find it."
+  },
+  {
+    "word": "for",
+    "translation": "для",
+    "examples": "This gift is for you. We waited for an hour."
+  },
+  {
+    "word": "not",
+    "translation": "не, нет",
+    "examples": "He is not here. This is not what I wanted."
+  },
+  {
+    "word": "on",
+    "translation": "на",
+    "examples": "The book is on the table. The meeting is on Monday."
+  },
+  {
+    "word": "with",
+    "translation": "с",
+    "examples": "I will go with you. A room with a view."
+  },
+  {
+    "word": "he",
+    "translation": "он",
+    "examples": "He is my brother. He works as a teacher."
+  },
+  {
+    "word": "as",
+    "translation": "как",
+    "examples": "She works as a nurse. He is as tall as his father."
+  },
+  {
+    "word": "you",
+    "translation": "ты, вы",
+    "examples": "You are my best friend. Can you help me?"
+  },
+  {
+    "word": "do",
+    "translation": "делать",
+    "examples": "What do you do? I need to do my homework."
+  },
+  {
+    "word": "at",
+    "translation": "у, в",
+    "examples": "I'll meet you at the station. She is at home."
+  },
+  {
+    "word": "this",
+    "translation": "этот, эта, это",
+    "examples": "This is my house. I like this song."
+  },
+  {
+    "word": "but",
+    "translation": "но",
+    "examples": "I want to go, but I'm busy. She is small but strong."
+  },
+  {
+    "word": "his",
+    "translation": "его",
+    "examples": "This is his book. He forgot his keys."
+  },
+  {
+    "word": "by",
+    "translation": "у, рядом, к",
+    "examples": "The house by the lake. The book was written by him."
+  },
+  {
+    "word": "from",
+    "translation": "от, из",
+    "examples": "I am from Russia. A letter from my friend."
+  },
+  {
+    "word": "they",
+    "translation": "они",
+    "examples": "They are playing outside. They live in a big house."
+  },
+  {
+    "word": "we",
+    "translation": "мы",
+    "examples": "We are a team. We should go now."
+  },
+  {
+    "word": "say",
+    "translation": "сказать",
+    "examples": "What did you say? She said she was tired."
+  },
+  {
+    "word": "her",
+    "translation": "ее",
+    "examples": "I saw her yesterday. This is her bag."
+  },
+  {
+    "word": "she",
+    "translation": "она",
+    "examples": "She is very smart. She loves to read."
+  },
+  {
+    "word": "or",
+    "translation": "или",
+    "examples": "Do you want tea or coffee? We can go now or later."
+  },
+  {
+    "word": "an",
+    "translation": "неопределенный артикль",
+    "examples": "I saw an elephant. It took an hour."
+  },
+  {
+    "word": "will",
+    "translation": "буду (вспомогательный глагол)",
+    "examples": "I will call you later. They will arrive tomorrow."
+  },
+  {
+    "word": "my",
+    "translation": "мой",
+    "examples": "This is my car. My family is important to me."
+  },
+  {
+    "word": "one",
+    "translation": "один",
+    "examples": "I have one brother. One day I will travel the world."
+  },
+  {
+    "word": "all",
+    "translation": "все",
+    "examples": "All the students passed the test. I want to buy all of them."
+  },
+  {
+    "word": "would",
+    "translation": "бы",
+    "examples": "I would like a cup of coffee. He said he would help."
+  },
+  {
+    "word": "there",
+    "translation": "там",
+    "examples": "There is a park near my house. Look over there."
+  },
+  {
+    "word": "their",
+    "translation": "их",
+    "examples": "This is their house. They lost their keys."
+  },
+  {
+    "word": "what",
+    "translation": "что",
+    "examples": "What is your name? I don't know what to do."
+  },
+  {
+    "word": "so",
+    "translation": "так, поэтому",
+    "examples": "It was so cold. I was tired, so I went to bed."
+  },
+  {
+    "word": "up",
+    "translation": "вверх",
+    "examples": "Look up at the sky. He climbed up the tree."
+  },
+  {
+    "word": "out",
+    "translation": "из, снаружи",
+    "examples": "She went out of the room. Let's eat out tonight."
+  },
+  {
+    "word": "if",
+    "translation": "если",
+    "examples": "If it rains, we will stay home. I will go if you go."
+  },
+  {
+    "word": "about",
+    "translation": "о, около",
+    "examples": "Tell me about your trip. It costs about 10 dollars."
+  },
+  {
+    "word": "who",
+    "translation": "кто",
+    "examples": "Who is that person? The man who called you is here."
+  },
+  {
+    "word": "get",
+    "translation": "получать",
+    "examples": "I need to get some milk. Did you get my email?"
+  },
+  {
+    "word": "which",
+    "translation": "который",
+    "examples": "Which color do you prefer? The car which is red is mine."
+  },
+  {
+    "word": "go",
+    "translation": "идти, ехать",
+    "examples": "Let's go to the cinema. I have to go now."
+  },
+  {
+    "word": "me",
+    "translation": "мне, меня",
+    "examples": "Can you help me? He gave the book to me."
+  },
+  {
+    "word": "when",
+    "translation": "когда",
+    "examples": "When is your birthday? I'll call you when I get home."
+  },
+  {
+    "word": "make",
+    "translation": "делать, создавать",
+    "examples": "She can make a beautiful dress. Let's make a plan."
+  },
+  {
+    "word": "can",
+    "translation": "мочь, уметь",
+    "examples": "I can swim. Can you open the window?"
+  },
+  {
+    "word": "like",
+    "translation": "нравиться, как",
+    "examples": "I like your new haircut. He runs like the wind."
+  },
+  {
+    "word": "time",
+    "translation": "время",
+    "examples": "What time is it? I don't have enough time."
+  },
+  {
+    "word": "no",
+    "translation": "нет, никакой",
+    "examples": "There is no sugar left. The answer is no."
+  },
+  {
+    "word": "just",
+    "translation": "просто, только что",
+    "examples": "I just finished my work. It's just a small problem."
+  },
+  {
+    "word": "him",
+    "translation": "его, ему",
+    "examples": "I saw him at the party. She gave him a present."
+  },
+  {
+    "word": "know",
+    "translation": "знать",
+    "examples": "I know the answer. Do you know him?"
+  },
+  {
+    "word": "take",
+    "translation": "брать, взять",
+    "examples": "Please take a seat. Don't forget to take your umbrella."
+  },
+  {
+    "word": "person",
+    "translation": "человек",
+    "examples": "He is a very kind person. There was only one person there."
+  },
+  {
+    "word": "into",
+    "translation": "в",
+    "examples": "He walked into the room. The car crashed into a tree."
+  },
+  {
+    "word": "year",
+    "translation": "год",
+    "examples": "I will graduate next year. She is 25 years old."
+  },
+  {
+    "word": "your",
+    "translation": "твой, ваш",
+    "examples": "What is your name? Your idea is brilliant."
+  },
+  {
+    "word": "good",
+    "translation": "хороший",
+    "examples": "This is a good book. She is a good student."
+  },
+  {
+    "word": "some",
+    "translation": "несколько, некоторый",
+    "examples": "I need some help. Can I have some water?"
+  },
+  {
+    "word": "could",
+    "translation": "мог, мог бы",
+    "examples": "Could you help me? I wish I could fly."
+  },
+  {
+    "word": "them",
+    "translation": "их, им",
+    "examples": "I don't know them. She invited them to the party."
+  },
+  {
+    "word": "see",
+    "translation": "видеть",
+    "examples": "I can see the mountains. Did you see that movie?"
+  },
+  {
+    "word": "other",
+    "translation": "другой",
+    "examples": "I have other plans. The other one is better."
+  },
+  {
+    "word": "than",
+    "translation": "чем",
+    "examples": "He is taller than me. I'd rather walk than drive."
+  },
+  {
+    "word": "then",
+    "translation": "затем, тогда",
+    "examples": "First I'll shower, then I'll eat. If you're busy, then we can talk later."
+  },
+  {
+    "word": "now",
+    "translation": "сейчас",
+    "examples": "I have to leave now. What are you doing now?"
+  },
+  {
+    "word": "look",
+    "translation": "смотреть",
+    "examples": "Look at the picture. She has a happy look."
+  },
+  {
+    "word": "only",
+    "translation": "только",
+    "examples": "I only have one dollar. He is the only person I trust."
+  },
+  {
+    "word": "come",
+    "translation": "приходить",
+    "examples": "Can you come to my party? He came home late."
+  },
+  {
+    "word": "its",
+    "translation": "его, ее (о неодушевленных)",
+    "examples": "The dog wagged its tail. The company announced its profits."
+  },
+  {
+    "word": "over",
+    "translation": "над, через",
+    "examples": "The plane flew over the city. The game is over."
+  },
+  {
+    "word": "think",
+    "translation": "думать",
+    "examples": "I think you are right. What do you think about this?"
+  },
+  {
+    "word": "also",
+    "translation": "также",
+    "examples": "She is a talented writer and also a great painter. I also want to go."
+  },
+  {
+    "word": "back",
+    "translation": "назад, спина",
+    "examples": "I will be back soon. My back hurts."
+  },
+  {
+    "word": "after",
+    "translation": "после",
+    "examples": "Let's meet after work. After dinner, we watched a movie."
+  },
+  {
+    "word": "use",
+    "translation": "использовать",
+    "examples": "Can I use your pen? The use of technology in education is increasing."
+  },
+  {
+    "word": "two",
+    "translation": "два",
+    "examples": "I have two sisters. It takes two to tango."
+  },
+  {
+    "word": "how",
+    "translation": "как",
+    "examples": "How are you? I don't know how to do this."
+  },
+  {
+    "word": "our",
+    "translation": "наш",
+    "examples": "This is our house. We love our city."
+  },
+  {
+    "word": "work",
+    "translation": "работа, работать",
+    "examples": "I have a lot of work to do. She works in a hospital."
+  },
+  {
+    "word": "first",
+    "translation": "первый",
+    "examples": "This is my first time here. He won the first prize."
+  },
+  {
+    "word": "well",
+    "translation": "хорошо",
+    "examples": "I hope you are well. She speaks English very well."
+  },
+  {
+    "word": "way",
+    "translation": "путь, способ",
+    "examples": "Show me the way to the station. This is the best way to do it."
+  },
+  {
+    "word": "even",
+    "translation": "даже",
+    "examples": "He can't even write his own name. Even a child can understand it."
+  },
+  {
+    "word": "new",
+    "translation": "новый",
+    "examples": "I bought a new car. This is a new beginning."
+  },
+  {
+    "word": "want",
+    "translation": "хотеть",
+    "examples": "What do you want to eat? I want to travel the world."
+  },
+  {
+    "word": "because",
+    "translation": "потому что",
+    "examples": "I am late because of the traffic. She is crying because she is sad."
+  },
+  {
+    "word": "any",
+    "translation": "любой, какой-нибудь",
+    "examples": "Do you have any questions? I don't want any trouble."
+  },
+  {
+    "word": "these",
+    "translation": "эти",
+    "examples": "I like these shoes. These are my friends."
+  },
+  {
+    "word": "give",
+    "translation": "давать",
+    "examples": "Can you give me a hand? She gave him a gift."
+  },
+  {
+    "word": "day",
+    "translation": "день",
+    "examples": "Have a nice day. Today is a beautiful day."
+  },
+  {
+    "word": "most",
+    "translation": "большинство, самый",
+    "examples": "Most people agree with this. This is the most beautiful painting."
+  },
+  {
+    "word": "us",
+    "translation": "нас, нам",
+    "examples": "He told us a story. They are waiting for us."
+  },
+  {
+    "word": "find",
+    "translation": "находить",
+    "examples": "I can't find my keys. You will find the answer in this book."
+  },
+  {
+    "word": "here",
+    "translation": "здесь",
+    "examples": "I am here. Come here, please."
+  },
+  {
+    "word": "thing",
+    "translation": "вещь",
+    "examples": "What is that thing? The most important thing is to be happy."
+  },
+  {
+    "word": "tell",
+    "translation": "рассказывать",
+    "examples": "Can you tell me a story? She told me a secret."
+  },
+  {
+    "word": "man",
+    "translation": "мужчина, человек",
+    "examples": "He is a good man. All men are created equal."
+  },
+  {
+    "word": "life",
+    "translation": "жизнь",
+    "examples": "Life is beautiful. He lived a long life."
+  },
+  {
+    "word": "child",
+    "translation": "ребенок",
+    "examples": "She has one child. Every child needs love."
+  },
+  {
+    "word": "world",
+    "translation": "мир",
+    "examples": "I want to travel the world. The world is a big place."
+  },
+  {
+    "word": "school",
+    "translation": "школа",
+    "examples": "He goes to school by bus. She is a teacher at a high school."
+  },
+  {
+    "word": "state",
+    "translation": "государство, состояние",
+    "examples": "The United States of America. The patient is in a stable state."
+  },
+  {
+    "word": "family",
+    "translation": "семья",
+    "examples": "I love my family. They have a big family."
+  },
+  {
+    "word": "student",
+    "translation": "студент, ученик",
+    "examples": "I am a university student. The students are listening to the teacher."
+  },
+  {
+    "word": "group",
+    "translation": "группа",
+    "examples": "A group of tourists. They work in a small group."
+  },
+  {
+    "word": "country",
+    "translation": "страна",
+    "examples": "Russia is a large country. I want to visit many countries."
+  },
+  {
+    "word": "problem",
+    "translation": "проблема",
+    "examples": "What is the problem? We need to find a solution to this problem."
+  },
+  {
+    "word": "hand",
+    "translation": "рука",
+    "examples": "Give me your hand. I wrote it by hand."
+  },
+  {
+    "word": "part",
+    "translation": "часть",
+    "examples": "This is the best part of the movie. A part of the building collapsed."
+  },
+  {
+    "word": "place",
+    "translation": "место",
+    "examples": "This is a beautiful place. I need a place to stay."
+  },
+  {
+    "word": "case",
+    "translation": "случай, дело",
+    "examples": "In that case, we should leave. The police are investigating the case."
+  },
+  {
+    "word": "week",
+    "translation": "неделя",
+    "examples": "There are seven days in a week. I will see you next week."
+  },
+  {
+    "word": "company",
+    "translation": "компания",
+    "examples": "He works for a big company. The company is doing well."
+  },
+  {
+    "word": "system",
+    "translation": "система",
+    "examples": "The solar system. We need a new system."
+  },
+  {
+    "word": "program",
+    "translation": "программа",
+    "examples": "What is your favorite TV program? I need to write a computer program."
+  },
+  {
+    "word": "question",
+    "translation": "вопрос",
+    "examples": "Can I ask you a question? I don't know the answer to your question."
+  },
+  {
+    "word": "right",
+    "translation": "право, правильный",
+    "examples": "You have the right to remain silent. That is the right answer."
+  },
+  {
+    "word": "number",
+    "translation": "число, номер",
+    "examples": "What is your phone number? Pick a number between one and ten."
+  },
+  {
+    "word": "night",
+    "translation": "ночь",
+    "examples": "I work during the night. Good night!"
+  },
+  {
+    "word": "point",
+    "translation": "точка, момент",
+    "examples": "You have a good point. At this point, I don't know."
+  },
+  {
+    "word": "home",
+    "translation": "дом",
+    "examples": "I am going home. There is no place like home."
+  },
+  {
+    "word": "water",
+    "translation": "вода",
+    "examples": "I need a glass of water. The earth is covered with water."
+  },
+  {
+    "word": "room",
+    "translation": "комната",
+    "examples": "This is my room. There is not enough room for everyone."
+  },
+  {
+    "word": "mother",
+    "translation": "мать",
+    "examples": "My mother is a doctor. She is a mother of three."
+  },
+  {
+    "word": "area",
+    "translation": "область, район",
+    "examples": "This is a quiet area. The area of the park is huge."
+  },
+  {
+    "word": "money",
+    "translation": "деньги",
+    "examples": "I need to earn more money. Money can't buy happiness."
+  },
+  {
+    "word": "story",
+    "translation": "история, рассказ",
+    "examples": "Tell me a story. This is a true story."
+  },
+  {
+    "word": "fact",
+    "translation": "факт",
+    "examples": "It is a well-known fact. The fact is that he lied."
+  },
+  {
+    "word": "month",
+    "translation": "месяц",
+    "examples": "There are twelve months in a year. My birthday is next month."
+  },
+  {
+    "word": "lot",
+    "translation": "много",
+    "examples": "I have a lot of friends. Thanks a lot."
+  },
+  {
+    "word": "book",
+    "translation": "книга",
+    "examples": "I am reading a good book. I need to book a flight."
+  },
+  {
+    "word": "eye",
+    "translation": "глаз",
+    "examples": "She has beautiful blue eyes. Keep an eye on the kids."
+  },
+  {
+    "word": "job",
+    "translation": "работа",
+    "examples": "He is looking for a job. Good job!"
+  },
+  {
+    "word": "word",
+    "translation": "слово",
+    "examples": "Can I have a word with you? I give you my word."
+  },
+  {
+    "word": "business",
+    "translation": "бизнес, дело",
+    "examples": "He runs his own business. It's none of your business."
+  },
+  {
+    "word": "issue",
+    "translation": "вопрос, проблема",
+    "examples": "This is a serious issue. The latest issue of the magazine."
+  },
+  {
+    "word": "side",
+    "translation": "сторона",
+    "examples": "Which side are you on? The bright side of life."
+  },
+  {
+    "word": "kind",
+    "translation": "добрый, вид",
+    "examples": "She is a kind person. What kind of music do you like?"
+  },
+  {
+    "word": "head",
+    "translation": "голова",
+    "examples": "My head hurts. He is the head of the department."
+  },
+  {
+    "word": "house",
+    "translation": "дом",
+    "examples": "They live in a big house. Welcome to our house."
+  },
+  {
+    "word": "service",
+    "translation": "услуга, сервис",
+    "examples": "The service in this hotel is excellent. Customer service."
+  },
+  {
+    "word": "friend",
+    "translation": "друг",
+    "examples": "You are my best friend. A friend in need is a friend indeed."
+  },
+  {
+    "word": "father",
+    "translation": "отец",
+    "examples": "My father is a lawyer. He is a proud father."
+  },
+  {
+    "word": "power",
+    "translation": "сила, власть",
+    "examples": "Knowledge is power. The power of love."
+  },
+  {
+    "word": "hour",
+    "translation": "час",
+    "examples": "The meeting will last an hour. I'll be there in an hour."
+  },
+  {
+    "word": "game",
+    "translation": "игра",
+    "examples": "Let's play a game. The final game is tomorrow."
+  },
+  {
+    "word": "line",
+    "translation": "линия, очередь",
+    "examples": "Draw a straight line. Please wait in line."
+  },
+  {
+    "word": "end",
+    "translation": "конец",
+    "examples": "This is the end of the story. The end of the road."
+  },
+  {
+    "word": "member",
+    "translation": "член (группы)",
+    "examples": "He is a member of the club. Each member has a vote."
+  },
+  {
+    "word": "law",
+    "translation": "закон",
+    "examples": "Everyone must obey the law. There should be a law against it."
+  },
+  {
+    "word": "car",
+    "translation": "машина",
+    "examples": "I bought a new car. Where did you park the car?"
+  },
+  {
+    "word": "city",
+    "translation": "город",
+    "examples": "New York is a big city. I live in the city center."
+  },
+  {
+    "word": "community",
+    "translation": "сообщество",
+    "examples": "The local community is very friendly. A sense of community."
+  },
+  {
+    "word": "name",
+    "translation": "имя",
+    "examples": "What is your name? The name of the game is to win."
+  },
+  {
+    "word": "president",
+    "translation": "президент",
+    "examples": "The president of the company. The president of the United States."
+  },
+  {
+    "word": "team",
+    "translation": "команда",
+    "examples": "We are a great team. The home team won the match."
+  },
+  {
+    "word": "minute",
+    "translation": "минута",
+    "examples": "I will be ready in a minute. Wait a minute."
+  },
+  {
+    "word": "idea",
+    "translation": "идея",
+    "examples": "That's a great idea! I have no idea what you're talking about."
+  },
+  {
+    "word": "kid",
+    "translation": "ребенок",
+    "examples": "The kids are playing in the garden. Don't be such a kid."
+  },
+  {
+    "word": "body",
+    "translation": "тело",
+    "examples": "A healthy body, a healthy mind. The police found a body."
+  },
+  {
+    "word": "information",
+    "translation": "информация",
+    "examples": "For more information, visit our website. I need some information."
+  },
+  {
+    "word": "parent",
+    "translation": "родитель",
+    "examples": "Her parents are very strict. Parent-teacher meeting."
+  },
+  {
+    "word": "face",
+    "translation": "лицо",
+    "examples": "She has a beautiful face. I need to face the truth."
+  },
+  {
+    "word": "others",
+    "translation": "другие",
+    "examples": "You should think of others. Some people like it, others don't."
+  },
+  {
+    "word": "level",
+    "translation": "уровень",
+    "examples": "The water level is rising. Her English is at an advanced level."
+  },
+  {
+    "word": "office",
+    "translation": "офис",
+    "examples": "I work in an office. The post office is closed."
+  },
+  {
+    "word": "door",
+    "translation": "дверь",
+    "examples": "Please close the door. Open the door to new opportunities."
+  },
+  {
+    "word": "health",
+    "translation": "здоровье",
+    "examples": "Health is the most important thing. He is in good health."
+  },
+  {
+    "word": "art",
+    "translation": "искусство",
+    "examples": "I love modern art. The art of cooking."
+  },
+  {
+    "word": "war",
+    "translation": "война",
+    "examples": "War is a terrible thing. The Cold War."
+  },
+  {
+    "word": "history",
+    "translation": "история",
+    "examples": "I am studying history at university. The history of the world."
+  },
+  {
+    "word": "party",
+    "translation": "вечеринка, партия",
+    "examples": "Are you coming to the party? The Democratic Party."
+  },
+  {
+    "word": "result",
+    "translation": "результат",
+    "examples": "The result of the experiment was successful. What was the result of the game?"
+  },
+  {
+    "word": "change",
+    "translation": "изменение, менять",
+    "examples": "I need a change of scenery. People can change."
+  },
+  {
+    "word": "morning",
+    "translation": "утро",
+    "examples": "Good morning! I wake up early in the morning."
+  },
+  {
+    "word": "reason",
+    "translation": "причина",
+    "examples": "What is the reason for your decision? There is no reason to be upset."
+  },
+  {
+    "word": "research",
+    "translation": "исследование",
+    "examples": "He is conducting research on cancer. Scientific research."
+  },
+  {
+    "word": "girl",
+    "translation": "девочка, девушка",
+    "examples": "She is a sweet little girl. The girls are talking."
+  },
+  {
+    "word": "guy",
+    "translation": "парень",
+    "examples": "He is a nice guy. Hey guys, what's up?"
+  },
+  {
+    "word": "food",
+    "translation": "еда",
+    "examples": "I love Italian food. We need to buy some food."
+  },
+  {
+    "word": "moment",
+    "translation": "момент",
+    "examples": "Wait a moment, please. It was a special moment."
+  },
+  {
+    "word": "air",
+    "translation": "воздух",
+    "examples": "I need some fresh air. The air is clean here."
+  },
+  {
+    "word": "teacher",
+    "translation": "учитель",
+    "examples": "My English teacher is very kind. He wants to be a teacher."
+  },
+  {
+    "word": "force",
+    "translation": "сила, заставлять",
+    "examples": "The force of gravity. Don't force me to do it."
+  },
+  {
+    "word": "education",
+    "translation": "образование",
+    "examples": "Education is very important. He received a good education."
+  },
+  {
+    "word": "foot",
+    "translation": "нога (стопа)",
+    "examples": "My foot hurts. They traveled on foot."
+  },
+  {
+    "word": "boy",
+    "translation": "мальчик",
+    "examples": "He is a smart boy. The boys are playing football."
+  },
+  {
+    "word": "second",
+    "translation": "секунда, второй",
+    "examples": "Wait a second. This is my second attempt."
+  },
+  {
+    "word": "policy",
+    "translation": "политика (курс)",
+    "examples": "The company's new policy. Government policy on education."
+  },
+  {
+    "word": "everything",
+    "translation": "всё",
+    "examples": "Everything will be alright. I told him everything."
+  },
+  {
+    "word": "love",
+    "translation": "любовь, любить",
+    "examples": "I love you. Love is a beautiful feeling."
+  },
+  {
+    "word": "process",
+    "translation": "процесс",
+    "examples": "Learning is a long process. The manufacturing process."
+  },
+  {
+    "word": "music",
+    "translation": "музыка",
+    "examples": "I love listening to music. What kind of music do you like?"
+  },
+  {
+    "word": "including",
+    "translation": "включая",
+    "examples": "Everyone was there, including my parents. The price is $100, including tax."
+  },
+  {
+    "word": "consider",
+    "translation": "рассматривать, считать",
+    "examples": "Please consider my application. I consider him a friend."
+  },
+  {
+    "word": "appear",
+    "translation": "появляться, казаться",
+    "examples": "A ship appeared on the horizon. She appears to be sad."
+  },
+  {
+    "word": "actually",
+    "translation": "на самом деле",
+    "examples": "He actually speaks three languages. I thought he was rude, but actually he's very nice."
+  },
+  {
+    "word": "buy",
+    "translation": "покупать",
+    "examples": "I need to buy some groceries. Where did you buy that dress?"
+  },
+  {
+    "word": "probably",
+    "translation": "вероятно",
+    "examples": "I'll probably be home late tonight. He's probably right."
+  },
+  {
+    "word": "human",
+    "translation": "человек, человеческий",
+    "examples": "To err is human. The human body is complex."
+  },
+  {
+    "word": "wait",
+    "translation": "ждать",
+    "examples": "Please wait for me. I can't wait to see you."
+  },
+  {
+    "word": "serve",
+    "translation": "служить, подавать",
+    "examples": "He served in the army for ten years. They serve breakfast until 10 am."
+  },
+  {
+    "word": "market",
+    "translation": "рынок",
+    "examples": "I'm going to the market. The stock market is down today."
+  },
+  {
+    "word": "die",
+    "translation": "умирать",
+    "examples": "All living things must die. He died of a heart attack."
+  },
+  {
+    "word": "send",
+    "translation": "отправлять",
+    "examples": "I need to send an email. She sent me a postcard."
+  },
+  {
+    "word": "expect",
+    "translation": "ожидать",
+    "examples": "I expect you to be on time. We are expecting a baby."
+  },
+  {
+    "word": "sense",
+    "translation": "чувство, смысл",
+    "examples": "A sense of humor. This doesn't make any sense."
+  },
+  {
+    "word": "build",
+    "translation": "строить",
+    "examples": "They are building a new house. We need to build a strong team."
+  },
+  {
+    "word": "stay",
+    "translation": "оставаться",
+    "examples": "I decided to stay at home. How long will you stay?"
+  },
+  {
+    "word": "fall",
+    "translation": "падать, осень",
+    "examples": "Leaves fall from the trees in autumn. Be careful not to fall."
+  },
+  {
+    "word": "nation",
+    "translation": "нация",
+    "examples": "A multi-ethnic nation. The whole nation was watching."
+  },
+  {
+    "word": "plan",
+    "translation": "план, планировать",
+    "examples": "What's your plan for the weekend? We need to plan our trip."
+  },
+  {
+    "word": "cut",
+    "translation": "резать",
+    "examples": "I cut my finger. She cut the cake into slices."
+  },
+  {
+    "word": "college",
+    "translation": "колледж",
+    "examples": "She is studying at a community college. He is a college professor."
+  },
+  {
+    "word": "interest",
+    "translation": "интерес",
+    "examples": "She has a keen interest in history. The interest rate is low."
+  },
+  {
+    "word": "death",
+    "translation": "смерть",
+    "examples": "The cause of death was unknown. Life and death."
+  },
+  {
+    "word": "course",
+    "translation": "курс, блюдо",
+    "examples": "I'm taking a French course. The main course was delicious."
+  },
+  {
+    "word": "someone",
+    "translation": "кто-то",
+    "examples": "Someone is at the door. I need someone to help me."
+  },
+  {
+    "word": "experience",
+    "translation": "опыт",
+    "examples": "I have a lot of experience in this field. It was a great experience."
+  },
+  {
+    "word": "behind",
+    "translation": "позади",
+    "examples": "The cat is hiding behind the sofa. He is behind in his work."
+  },
+  {
+    "word": "reach",
+    "translation": "достигать",
+    "examples": "I can't reach the top shelf. We finally reached our destination."
+  },
+  {
+    "word": "local",
+    "translation": "местный",
+    "examples": "I prefer to shop at local stores. The local news."
+  },
+  {
+    "word": "kill",
+    "translation": "убивать",
+    "examples": "Smoking can kill you. He was killed in an accident."
+  },
+  {
+    "word": "six",
+    "translation": "шесть",
+    "examples": "There are six people in my family. The meeting is at six o'clock."
+  },
+  {
+    "word": "remain",
+    "translation": "оставаться",
+    "examples": "Please remain seated. The question remains unanswered."
+  },
+  {
+    "word": "effect",
+    "translation": "эффект, результат",
+    "examples": "The new law will take effect next month. The side effects of the drug."
+  },
+  {
+    "word": "suggest",
+    "translation": "предлагать",
+    "examples": "I suggest we go for a walk. Can you suggest a good restaurant?"
+  },
+  {
+    "word": "control",
+    "translation": "контроль, контролировать",
+    "examples": "The situation is under control. You need to control your anger."
+  },
+  {
+    "word": "raise",
+    "translation": "поднимать",
+    "examples": "Please raise your hand. They are trying to raise money for charity."
+  },
+  {
+    "word": "care",
+    "translation": "забота, заботиться",
+    "examples": "Take care of yourself. I don't care what they say."
+  },
+  {
+    "word": "perhaps",
+    "translation": "возможно",
+    "examples": "Perhaps we should wait. He is, perhaps, the best player in the world."
+  },
+  {
+    "word": "little",
+    "translation": "маленький, мало",
+    "examples": "She has a little dog. I have very little time."
+  },
+  {
+    "word": "late",
+    "translation": "поздний, поздно",
+    "examples": "Sorry I'm late. It's too late to apologize."
+  },
+  {
+    "word": "hard",
+    "translation": "трудный, твёрдый",
+    "examples": "This is a hard question. He works hard."
+  },
+  {
+    "word": "field",
+    "translation": "поле",
+    "examples": "The cows are in the field. He is an expert in his field."
+  },
+  {
+    "word": "else",
+    "translation": "ещё",
+    "examples": "Is there anything else I can do? Somebody else can do it."
+  },
+  {
+    "word": "pass",
+    "translation": "проходить, сдавать (экзамен)",
+    "examples": "I passed him on the street. I passed my driving test."
+  },
+  {
+    "word": "former",
+    "translation": "бывший",
+    "examples": "The former president. My former boss."
+  },
+  {
+    "word": "sell",
+    "translation": "продавать",
+    "examples": "They sell cars. I sold my old bike."
+  },
+  {
+    "word": "major",
+    "translation": "основной, главный",
+    "examples": "This is a major problem. My major is in biology."
+  },
+  {
+    "word": "sometimes",
+    "translation": "иногда",
+    "examples": "Sometimes I feel sad. He sometimes visits his grandparents."
+  },
+  {
+    "word": "require",
+    "translation": "требовать",
+    "examples": "This job requires a lot of patience. The recipe requires two eggs."
+  },
+  {
+    "word": "along",
+    "translation": "вдоль",
+    "examples": "We walked along the river. Come along with me."
+  },
+  {
+    "word": "development",
+    "translation": "развитие",
+    "examples": "The development of new technologies. Child development."
+  },
+  {
+    "word": "itself",
+    "translation": "себя, само",
+    "examples": "The problem will solve itself. History repeats itself."
+  },
+  {
+    "word": "report",
+    "translation": "отчет, сообщать",
+    "examples": "I need to write a report. Please report any suspicious activity."
+  },
+  {
+    "word": "role",
+    "translation": "роль",
+    "examples": "She played the leading role in the film. The role of a teacher is important."
+  },
+  {
+    "word": "better",
+    "translation": "лучше",
+    "examples": "I feel much better today. This one is better than that one."
+  },
+  {
+    "word": "economic",
+    "translation": "экономический",
+    "examples": "The country is facing economic problems. Economic growth."
+  },
+  {
+    "word": "effort",
+    "translation": "усилие",
+    "examples": "It takes a lot of effort to learn a language. Your effort will pay off."
+  },
+  {
+    "word": "decide",
+    "translation": "решать",
+    "examples": "I can't decide what to wear. They decided to move to a new city."
+  },
+  {
+    "word": "rate",
+    "translation": "ставка, темп",
+    "examples": "The interest rate is high. The rate of inflation."
+  },
+  {
+    "word": "strong",
+    "translation": "сильный",
+    "examples": "He is a strong man. The coffee is too strong."
+  },
+  {
+    "word": "possible",
+    "translation": "возможный",
+    "examples": "Is it possible to finish this by tomorrow? Anything is possible."
+  },
+  {
+    "word": "heart",
+    "translation": "сердце",
+    "examples": "My heart is beating fast. I love you with all my heart."
+  },
+  {
+    "word": "drug",
+    "translation": "лекарство, наркотик",
+    "examples": "This drug can have side effects. He was arrested for selling drugs."
+  },
+  {
+    "word": "show",
+    "translation": "показывать, шоу",
+    "examples": "Can you show me the way? The show starts at 8 pm."
+  },
+  {
+    "word": "leader",
+    "translation": "лидер",
+    "examples": "He is a great leader. The leader of the opposition party."
+  },
+  {
+    "word": "light",
+    "translation": "свет, лёгкий",
+    "examples": "Turn on the light, please. The box is very light."
+  },
+  {
+    "word": "voice",
+    "translation": "голос",
+    "examples": "She has a beautiful voice. I heard a strange voice."
+  },
+  {
+    "word": "wife",
+    "translation": "жена",
+    "examples": "He loves his wife very much. My wife is a teacher."
+  },
+  {
+    "word": "whole",
+    "translation": "целый",
+    "examples": "I ate the whole pizza. The whole family was there."
+  },
+  {
+    "word": "police",
+    "translation": "полиция",
+    "examples": "Call the police! The police are investigating the crime."
+  },
+  {
+    "word": "mind",
+    "translation": "ум, разум",
+    "examples": "A brilliant mind. I can't get it out of my mind."
+  },
+  {
+    "word": "finally",
+    "translation": "наконец",
+    "examples": "We finally arrived. Finally, the rain has stopped."
+  },
+  {
+    "word": "pull",
+    "translation": "тянуть",
+    "examples": "Push and pull. He pulled the door open."
+  },
+  {
+    "word": "return",
+    "translation": "возвращаться, возврат",
+    "examples": "I will return tomorrow. The return of the king."
+  },
+  {
+    "word": "free",
+    "translation": "свободный, бесплатный",
+    "examples": "I am free this weekend. The admission is free."
+  },
+  {
+    "word": "military",
+    "translation": "военный",
+    "examples": "Military service is compulsory. The military base."
+  },
+  {
+    "word": "price",
+    "translation": "цена",
+    "examples": "What is the price of this dress? The price of gas is rising."
+  },
+  {
+    "word": "read",
+    "translation": "читать",
+    "examples": "I love to read books. I read the newspaper every day."
+  },
+  {
+    "word": "action",
+    "translation": "действие",
+    "examples": "Actions speak louder than words. We need to take action now."
+  },
+  {
+    "word": "less",
+    "translation": "меньше",
+    "examples": "I have less money than you. Eat less, move more."
+  },
+  {
+    "word": "matter",
+    "translation": "иметь значение, дело",
+    "examples": "It doesn't matter. What's the matter?"
+  },
+  {
+    "word": "community",
+    "translation": "сообщество",
+    "examples": "He is an active member of the community. We live in a small community."
+  },
+  {
+    "word": "figure",
+    "translation": "цифра, фигура",
+    "examples": "The sales figures are impressive. She has a nice figure."
+  },
+  {
+    "word": "since",
+    "translation": "с, с тех пор как",
+    "examples": "I haven't seen him since last year. Since you're here, you can help me."
+  },
+  {
+    "word": "view",
+    "translation": "вид, точка зрения",
+    "examples": "The view from the top is amazing. What's your view on this?"
+  },
+  {
+    "word": "ago",
+    "translation": "тому назад",
+    "examples": "I met him two years ago. Long time ago."
+  },
+  {
+    "word": "may",
+    "translation": "мочь (вероятность)",
+    "examples": "It may rain tomorrow. May I come in?"
+  },
+  {
+    "word": "early",
+    "translation": "ранний, рано",
+    "examples": "I woke up early today. The early bird catches the worm."
+  },
+  {
+    "word": "must",
+    "translation": "должен",
+    "examples": "You must finish your homework. I must go now."
+  },
+  {
+    "word": "open",
+    "translation": "открывать, открытый",
+    "examples": "Please open the window. The store is open."
+  },
+  {
+    "word": "real",
+    "translation": "настоящий, реальный",
+    "examples": "Is this a real diamond? This is the real reason."
+  },
+  {
+    "word": "once",
+    "translation": "однажды, раз",
+    "examples": "I met him once. Once upon a time."
+  },
+  {
+    "word": "white",
+    "translation": "белый",
+    "examples": "She was wearing a white dress. Snow is white."
+  },
+  {
+    "word": "black",
+    "translation": "черный",
+    "examples": "He has a black cat. The sky was black."
+  },
+  {
+    "word": "long",
+    "translation": "длинный, долго",
+    "examples": "She has long hair. How long have you been waiting?"
+  },
+  {
+    "word": "both",
+    "translation": "оба",
+    "examples": "Both of them are my friends. I like both."
+  },
+  {
+    "word": "leave",
+    "translation": "уходить, оставлять",
+    "examples": "I have to leave now. Don't leave me alone."
+  },
+  {
+    "word": "run",
+    "translation": "бежать",
+    "examples": "I run every morning. The river runs through the city."
+  },
+  {
+    "word": "big",
+    "translation": "большой",
+    "examples": "They live in a big house. This is a big problem."
+  },
+  {
+    "word": "ask",
+    "translation": "спрашивать",
+    "examples": "Can I ask you a question? He asked for my help."
+  },
+  {
+    "word": "walk",
+    "translation": "идти пешком",
+    "examples": "I walk to work every day. Let's go for a walk."
+  },
+  {
+    "word": "start",
+    "translation": "начинать",
+    "examples": "The movie starts at 7 pm. Let's start the meeting."
+  },
+  {
+    "word": "sit",
+    "translation": "сидеть",
+    "examples": "Please sit down. The cat is sitting on the chair."
+  },
+  {
+    "word": "stop",
+    "translation": "останавливаться",
+    "examples": "Please stop talking. The bus stopped at the corner."
+  },
+  {
+    "word": "speak",
+    "translation": "говорить",
+    "examples": "Can you speak slowly? She speaks three languages."
+  },
+  {
+    "word": "allow",
+    "translation": "позволять",
+    "examples": "Smoking is not allowed here. My parents don't allow me to stay out late."
+  },
+  {
+    "word": "add",
+    "translation": "добавлять",
+    "examples": "Add some sugar to your tea. Can you add these numbers?"
+  },
+  {
+    "word": "spend",
+    "translation": "тратить, проводить (время)",
+    "examples": "I spend a lot of money on clothes. I spend my weekends with my family."
+  },
+  {
+    "word": "grow",
+    "translation": "расти",
+    "examples": "Children grow up so fast. We grow vegetables in our garden."
+  },
+  {
+    "word": "offer",
+    "translation": "предлагать",
+    "examples": "He offered me a job. Can I offer you a drink?"
+  },
+  {
+    "word": "remember",
+    "translation": "помнить",
+    "examples": "I can't remember his name. Remember to lock the door."
+  },
+  {
+    "word": "play",
+    "translation": "играть",
+    "examples": "Children love to play. He can play the guitar."
+  },
+  {
+    "word": "move",
+    "translation": "двигаться",
+    "examples": "Don't move! We are moving to a new house."
+  },
+  {
+    "word": "pay",
+    "translation": "платить",
+    "examples": "I need to pay the bills. Can I pay by credit card?"
+  },
+  {
+    "word": "hear",
+    "translation": "слышать",
+    "examples": "I can't hear you. Did you hear the news?"
+  },
+  {
+    "word": "include",
+    "translation": "включать",
+    "examples": "The price includes breakfast. The tour includes a visit to the museum."
+  },
+  {
+    "word": "believe",
+    "translation": "верить",
+    "examples": "I believe in you. I can't believe my eyes."
+  },
+  {
+    "word": "happen",
+    "translation": "случаться",
+    "examples": "What happened? Accidents can happen."
+  },
+  {
+    "word": "write",
+    "translation": "писать",
+    "examples": "I need to write a letter. She wrote a book."
+  },
+  {
+    "word": "provide",
+    "translation": "предоставлять",
+    "examples": "We provide free Wi-Fi. The hotel provides excellent service."
+  },
+  {
+    "word": "lose",
+    "translation": "терять, проигрывать",
+    "examples": "I don't want to lose my keys. Our team lost the game."
+  },
+  {
+    "word": "meet",
+    "translation": "встречать",
+    "examples": "Nice to meet you. Let's meet for lunch."
+  },
+  {
+    "word": "continue",
+    "translation": "продолжать",
+    "examples": "Please continue your story. The rain continued all day."
+  },
+  {
+    "word": "set",
+    "translation": "устанавливать, набор",
+    "examples": "I need to set the alarm. A set of tools."
+  },
+  {
+    "word": "learn",
+    "translation": "учить",
+    "examples": "I want to learn Spanish. You learn from your mistakes."
+  },
+  {
+    "word": "lead",
+    "translation": "вести, руководить",
+    "examples": "He leads a team of engineers. This road leads to the city."
+  },
+  {
+    "word": "understand",
+    "translation": "понимать",
+    "examples": "I don't understand the question. Do you understand what I mean?"
+  },
+  {
+    "word": "watch",
+    "translation": "смотреть, часы",
+    "examples": "I like to watch movies. What time is it by your watch?"
+  },
+  {
+    "word": "follow",
+    "translation": "следовать",
+    "examples": "Follow me. You must follow the rules."
+  },
+  {
+    "word": "create",
+    "translation": "создавать",
+    "examples": "He created a masterpiece. We need to create a new plan."
+  },
+  {
+    "word": "let",
+    "translation": "позволять",
+    "examples": "Let me help you. Don't let him go."
+  },
+  {
+    "word": "need",
+    "translation": "нуждаться",
+    "examples": "I need your help. Plants need water to grow."
+  },
+  {
+    "word": "stand",
+    "translation": "стоять",
+    "examples": "Please stand up. I can't stand the noise."
+  },
+  {
+    "word": "try",
+    "translation": "пытаться",
+    "examples": "I will try my best. Let's try again."
+  },
+  {
+    "word": "keep",
+    "translation": "держать, продолжать",
+    "examples": "Keep calm. Can you keep a secret?"
+  },
+  {
+    "word": "begin",
+    "translation": "начинать",
+    "examples": "Let's begin the lesson. The story begins in a small village."
+  },
+  {
+    "word": "put",
+    "translation": "класть",
+    "examples": "Put the book on the table. Where did you put my keys?"
+  },
+  {
+    "word": "help",
+    "translation": "помогать",
+    "examples": "Can you help me? Thanks for your help."
+  },
+  {
+    "word": "talk",
+    "translation": "разговаривать",
+    "examples": "I need to talk to you. Let's talk about it."
+  },
+  {
+    "word": "turn",
+    "translation": "поворачивать, очередь",
+    "examples": "Turn right at the corner. It's your turn."
+  },
+  {
+    "word": "might",
+    "translation": "может быть (вероятность)",
+    "examples": "It might rain. He might be late."
+  },
+  {
+    "word": "call",
+    "translation": "звонить, звать",
+    "examples": "I will call you later. What's your name? They call me Alex."
+  },
+  {
+    "word": "live",
+    "translation": "жить",
+    "examples": "Where do you live? I want to live a happy life."
+  },
+  {
+    "word": "again",
+    "translation": "снова",
+    "examples": "Let's try again. See you again soon."
+  },
+  {
+    "word": "away",
+    "translation": "прочь, далеко",
+    "examples": "Go away! The station is far away from here."
+  },
+  {
+    "word": "off",
+    "translation": "с, выключенный",
+    "examples": "Turn off the light. Get off the bus."
+  },
+  {
+    "word": "old",
+    "translation": "старый",
+    "examples": "He is an old man. This is my old car."
+  },
+  {
+    "word": "great",
+    "translation": "великий, отличный",
+    "examples": "That's a great idea! Alexander the Great."
+  },
+  {
+    "word": "same",
+    "translation": "тот же самый",
+    "examples": "We are in the same class. It's all the same to me."
+  },
+  {
+    "word": "small",
+    "translation": "маленький",
+    "examples": "A small town. This is a small problem."
+  },
+  {
+    "word": "large",
+    "translation": "большой",
+    "examples": "A large family. The city has a large population."
+  },
+  {
+    "word": "next",
+    "translation": "следующий",
+    "examples": "See you next week. Who's next?"
+  },
+  {
+    "word": "young",
+    "translation": "молодой",
+    "examples": "She is a young woman. The young generation."
+  },
+  {
+    "word": "important",
+    "translation": "важный",
+    "examples": "This is an important meeting. It's important to be honest."
+  },
+  {
+    "word": "few",
+    "translation": "несколько",
+    "examples": "I have a few friends. Only a few people came."
+  },
+  {
+    "word": "public",
+    "translation": "общественный, публика",
+    "examples": "A public library. The event is open to the public."
+  },
+  {
+    "word": "bad",
+    "translation": "плохой",
+    "examples": "This is a bad movie. I have a bad headache."
+  },
+  {
+    "word": "high",
+    "translation": "высокий",
+    "examples": "A high mountain. The price is too high."
+  },
+  {
+    "word": "different",
+    "translation": "разный, другой",
+    "examples": "We have different opinions. This one is different."
+  },
+  {
+    "word": "able",
+    "translation": "способный",
+    "examples": "I will be able to help you. She is a very able student."
+  },
+  {
+    "word": "own",
+    "translation": "собственный",
+    "examples": "I have my own car. He lives on his own."
+  },
+  {
+    "word": "short",
+    "translation": "короткий",
+    "examples": "A short story. Life is short."
+  },
+  {
+    "word": "last",
+    "translation": "последний, длиться",
+    "examples": "This is the last chance. The movie lasts for two hours."
+  },
+  {
+    "word": "right",
+    "translation": "правый, правильный",
+    "examples": "Turn right. That's the right answer."
+  },
+  {
+    "word": "left",
+    "translation": "левый, оставленный",
+    "examples": "Turn left. There is no food left."
+  },
+  {
+    "word": "sure",
+    "translation": "уверенный",
+    "examples": "Are you sure? I'm sure he will come."
+  },
+  {
+    "word": "clear",
+    "translation": "ясный, чистый",
+    "examples": "The sky is clear. Is that clear?"
+  },
+  {
+    "word": "main",
+    "translation": "главный",
+    "examples": "The main reason. This is the main entrance."
+  },
+  {
+    "word": "general",
+    "translation": "общий, генерал",
+    "examples": "In general, I agree with you. A general election."
+  },
+  {
+    "word": "certain",
+    "translation": "определенный, уверенный",
+    "examples": "For certain reasons. I'm certain that he is right."
+  },
+  {
+    "word": "several",
+    "translation": "несколько",
+    "examples": "I have several books on this topic. I've been there several times."
+  },
+  {
+    "word": "available",
+    "translation": "доступный",
+    "examples": "This product is not available. Are you available this weekend?"
+  },
+  {
+    "word": "personal",
+    "translation": "личный",
+    "examples": "This is my personal opinion. For personal reasons."
+  },
+  {
+    "word": "open",
+    "translation": "открытый",
+    "examples": "The door is open. He is very open with his feelings."
+  },
+  {
+    "word": "social",
+    "translation": "социальный, общественный",
+    "examples": "Social media. He has good social skills."
+  },
+  {
+    "word": "political",
+    "translation": "политический",
+    "examples": "A political party. The political situation is unstable."
+  },
+  {
+    "word": "poor",
+    "translation": "бедный",
+    "examples": "A poor family. The quality is very poor."
+  },
+  {
+    "word": "late",
+    "translation": "поздний",
+    "examples": "It was a late night. The late president."
+  },
+  {
+    "word": "human",
+    "translation": "человеческий",
+    "examples": "Human rights. It's only human to make mistakes."
+  },
+  {
+    "word": "local",
+    "translation": "местный",
+    "examples": "The local newspaper. We support local businesses."
+  },
+  {
+    "word": "single",
+    "translation": "один, единственный",
+    "examples": "Not a single word was spoken. Are you single?"
+  },
+  {
+    "word": "wrong",
+    "translation": "неправильный",
+    "examples": "This is the wrong answer. What's wrong?"
+  },
+  {
+    "word": "private",
+    "translation": "частный, личный",
+    "examples": "A private school. This is a private conversation."
+  },
+  {
+    "word": "past",
+    "translation": "прошлое, прошлый",
+    "examples": "Learn from the past. For the past few weeks."
+  },
+  {
+    "word": "foreign",
+    "translation": "иностранный",
+    "examples": "I speak two foreign languages. Foreign policy."
+  },
+  {
+    "word": "fine",
+    "translation": "хорошо, штраф",
+    "examples": "How are you? I'm fine. He had to pay a fine."
+  },
+  {
+    "word": "common",
+    "translation": "общий, распространенный",
+    "examples": "We have a common goal. It's a common mistake."
+  },
+  {
+    "word": "full",
+    "translation": "полный",
+    "examples": "My glass is full. I'm full, I can't eat anymore."
+  },
+  {
+    "word": "easy",
+    "translation": "легкий",
+    "examples": "The test was easy. It's easy to say."
+  },
+  {
+    "word": "difficult",
+    "translation": "трудный",
+    "examples": "A difficult question. It's difficult to explain."
+  },
+  {
+    "word": "special",
+    "translation": "особенный",
+    "examples": "This is a special occasion. You are very special to me."
+  },
+  {
+    "word": "dark",
+    "translation": "темный",
+    "examples": "It's getting dark. She has dark hair."
+  },
+  {
+    "word": "hard",
+    "translation": "трудный",
+    "examples": "He is a hard worker. The exam was very hard."
+  },
+  {
+    "word": "dead",
+    "translation": "мертвый",
+    "examples": "The plant is dead. The phone line is dead."
+  },
+  {
+    "word": "whole",
+    "translation": "весь, целый",
+    "examples": "I read the whole book. The whole truth."
+  },
+  {
+    "word": "simple",
+    "translation": "простой",
+    "examples": "A simple solution. The instructions are simple."
+  },
+  {
+    "word": "physical",
+    "translation": "физический",
+    "examples": "Physical exercise is important. The physical world."
+  },
+  {
+    "word": "medical",
+    "translation": "медицинский",
+    "examples": "I need medical advice. A medical examination."
+  },
+  {
+    "word": "financial",
+    "translation": "финансовый",
+    "examples": "Financial problems. He is a financial advisor."
+  },
+  {
+    "word": "national",
+    "translation": "национальный",
+    "examples": "A national holiday. The national anthem."
+  },
+  {
+    "word": "happy",
+    "translation": "счастливый",
+    "examples": "I am so happy to see you. A happy ending."
+  },
+  {
+    "word": "serious",
+    "translation": "серьезный",
+    "examples": "A serious illness. This is a serious matter."
+  },
+  {
+    "word": "ready",
+    "translation": "готовый",
+    "examples": "Are you ready? Dinner is ready."
+  },
+  {
+    "word": "red",
+    "translation": "красный",
+    "examples": "A red car. Her dress is red."
+  },
+  {
+    "word": "green",
+    "translation": "зеленый",
+    "examples": "The grass is green. I like green tea."
+  },
+  {
+    "word": "blue",
+    "translation": "синий, грустный",
+    "examples": "The sky is blue. I'm feeling blue."
+  },
+  {
+    "word": "current",
+    "translation": "текущий",
+    "examples": "The current situation. What is your current address?"
+  },
+  {
+    "word": "free",
+    "translation": "свободный",
+    "examples": "Are you free tonight? The best things in life are free."
+  },
+  {
+    "word": "hot",
+    "translation": "горячий",
+    "examples": "It's hot today. The coffee is too hot."
+  },
+  {
+    "word": "cold",
+    "translation": "холодный",
+    "examples": "It's cold outside. I have a cold."
+  },
+  {
+    "word": "low",
+    "translation": "низкий",
+    "examples": "A low price. He has a low voice."
+  },
+  {
+    "word": "far",
+    "translation": "далеко",
+    "examples": "How far is it? So far, so good."
+  },
+  {
+    "word": "near",
+    "translation": "близко",
+    "examples": "Is there a bank near here? The end is near."
+  },
+  {
+    "word": "true",
+    "translation": "правдивый, верный",
+    "examples": "Is it true? A true friend."
+  },
+  {
+    "word": "beautiful",
+    "translation": "красивый",
+    "examples": "A beautiful day. She is a beautiful woman."
+  },
+  {
+    "word": "heavy",
+    "translation": "тяжелый",
+    "examples": "A heavy box. Heavy rain."
+  },
+  {
+    "word": "perfect",
+    "translation": "идеальный",
+    "examples": "Nobody is perfect. A perfect day."
+  },
+  {
+    "word": "nice",
+    "translation": "милый, хороший",
+    "examples": "Have a nice day. He is a nice person."
+  },
+  {
+    "word": "warm",
+    "translation": "теплый",
+    "examples": "It's a warm day. A warm welcome."
+  },
+  {
+    "word": "deep",
+    "translation": "глубокий",
+    "examples": "The river is deep. A deep sleep."
+  },
+  {
+    "word": "light",
+    "translation": "светлый",
+    "examples": "A light color. The room is light."
+  },
+  {
+    "word": "poor",
+    "translation": "бедный",
+    "examples": "They are very poor. The poor dog was shivering."
+  },
+  {
+    "word": "rich",
+    "translation": "богатый",
+    "examples": "A rich man. The cake is very rich."
+  },
+  {
+    "word": "strong",
+    "translation": "сильный",
+    "examples": "He has a strong will. A strong coffee."
+  },
+  {
+    "word": "weak",
+    "translation": "слабый",
+    "examples": "I feel weak. A weak argument."
+  },
+  {
+    "word": "clean",
+    "translation": "чистый",
+    "examples": "A clean room. I need to clean my shoes."
+  },
+  {
+    "word": "dirty",
+    "translation": "грязный",
+    "examples": "Your hands are dirty. A dirty joke."
+  },
+  {
+    "word": "safe",
+    "translation": "безопасный",
+    "examples": "Is it safe here? Have a safe trip."
+  },
+  {
+    "word": "dangerous",
+    "translation": "опасный",
+    "examples": "A dangerous animal. The situation is dangerous."
+  },
+  {
+    "word": "fresh",
+    "translation": "свежий",
+    "examples": "Fresh fruit. A breath of fresh air."
+  },
+  {
+    "word": "final",
+    "translation": "финальный, окончательный",
+    "examples": "The final decision. The final exam."
+  },
+  {
+    "word": "normal",
+    "translation": "нормальный",
+    "examples": "It's normal to feel nervous. Back to normal life."
+  },
+  {
+    "word": "strange",
+    "translation": "странный",
+    "examples": "A strange noise. He is a strange person."
+  },
+  {
+    "word": "huge",
+    "translation": "огромный",
+    "examples": "A huge mistake. A huge building."
+  },
+  {
+    "word": "tiny",
+    "translation": "крошечный",
+    "examples": "A tiny insect. A tiny village."
+  },
+  {
+    "word": "wide",
+    "translation": "широкий",
+    "examples": "A wide river. Open your mouth wide."
+  },
+  {
+    "word": "narrow",
+    "translation": "узкий",
+    "examples": "A narrow street. A narrow-minded person."
+  },
+  {
+    "word": "bright",
+    "translation": "яркий",
+    "examples": "A bright future. The sun is very bright."
+  },
+  {
+    "word": "calm",
+    "translation": "спокойный",
+    "examples": "The sea is calm. Keep calm and carry on."
+  },
+  {
+    "word": "brave",
+    "translation": "смелый",
+    "examples": "A brave soldier. It was brave of you to speak out."
+  },
+  {
+    "word": "proud",
+    "translation": "гордый",
+    "examples": "I'm proud of you. A proud moment."
+  },
+  {
+    "word": "busy",
+    "translation": "занятой",
+    "examples": "I'm busy right now. A busy street."
+  },
+  {
+    "word": "careful",
+    "translation": "осторожный",
+    "examples": "Be careful! He is a careful driver."
+  },
+  {
+    "word": "careless",
+    "translation": "неосторожный",
+    "examples": "A careless mistake. He is careless with money."
+  },
+  {
+    "word": "clever",
+    "translation": "умный",
+    "examples": "A clever idea. She is a very clever student."
+  },
+  {
+    "word": "cute",
+    "translation": "милый",
+    "examples": "A cute puppy. That's a cute dress."
+  },
+  {
+    "word": "funny",
+    "translation": "смешной",
+    "examples": "A funny story. He is a very funny person."
+  },
+  {
+    "word": "kind",
+    "translation": "добрый",
+    "examples": "Thank you, that's very kind of you. Be kind to animals."
+  },
+  {
+    "word": "lazy",
+    "translation": "ленивый",
+    "examples": "A lazy afternoon. Don't be so lazy."
+  },
+  {
+    "word": "lucky",
+    "translation": "удачливый",
+    "examples": "You are so lucky! It's your lucky day."
+  },
+  {
+    "word": "quiet",
+    "translation": "тихий",
+    "examples": "Please be quiet. A quiet village."
+  },
+  {
+    "word": "shy",
+    "translation": "застенчивый",
+    "examples": "She is very shy. Don't be shy."
+  },
+  {
+    "word": "stupid",
+    "translation": "глупый",
+    "examples": "A stupid mistake. That was a stupid thing to do."
+  },
+  {
+    "word": "thin",
+    "translation": "тонкий, худой",
+    "examples": "A thin book. She is very thin."
+  },
+  {
+    "word": "thick",
+    "translation": "толстый",
+    "examples": "A thick coat. The fog was very thick."
+  },
+  {
+    "word": "ugly",
+    "translation": "уродливый",
+    "examples": "An ugly building. The ugly duckling."
+  },
+  {
+    "word": "wise",
+    "translation": "мудрый",
+    "examples": "A wise old man. A wise decision."
+  },
+  {
+    "word": "across",
+    "translation": "через",
+    "examples": "The bridge across the river. He lives across the street."
+  },
+  {
+    "word": "against",
+    "translation": "против",
+    "examples": "It's against the law. I'm against this idea."
+  },
+  {
+    "word": "among",
+    "translation": "среди",
+    "examples": "He is popular among students. A house among the trees."
+  },
+  {
+    "word": "around",
+    "translation": "вокруг",
+    "examples": "The earth goes around the sun. Let's walk around the park."
+  },
+  {
+    "word": "before",
+    "translation": "до, перед",
+    "examples": "I'll call you before I leave. He stood before the king."
+  },
+  {
+    "word": "below",
+    "translation": "ниже",
+    "examples": "The temperature is below zero. See the notes below."
+  },
+  {
+    "word": "beside",
+    "translation": "рядом",
+    "examples": "He sat beside me. That's beside the point."
+  },
+  {
+    "word": "between",
+    "translation": "между",
+    "examples": "The house is between the two trees. A secret between you and me."
+  },
+  {
+    "word": "beyond",
+    "translation": "за, по ту сторону",
+    "examples": "The mountains are beyond the river. It's beyond my understanding."
+  },
+  {
+    "word": "during",
+    "translation": "в течение",
+    "examples": "I was sleeping during the movie. He called during the meeting."
+  },
+  {
+    "word": "inside",
+    "translation": "внутри",
+    "examples": "What's inside the box? Let's go inside."
+  },
+  {
+    "word": "near",
+    "translation": "возле",
+    "examples": "My house is near the school. The deadline is drawing near."
+  },
+  {
+    "word": "outside",
+    "translation": "снаружи",
+    "examples": "The children are playing outside. Let's eat outside."
+  },
+  {
+    "word": "since",
+    "translation": "с тех пор",
+    "examples": "I've been waiting since 10 o'clock. It's a long time since we last met."
+  },
+  {
+    "word": "through",
+    "translation": "через, сквозь",
+    "examples": "The train went through the tunnel. We are friends through thick and thin."
+  },
+  {
+    "word": "toward",
+    "translation": "к, по направлению к",
+    "examples": "He walked toward the door. My attitude toward him has changed."
+  },
+  {
+    "word": "under",
+    "translation": "под",
+    "examples": "The cat is under the table. The situation is under control."
+  },
+  {
+    "word": "until",
+    "translation": "до",
+    "examples": "I will wait until you come back. The store is open until 9 pm."
+  },
+  {
+    "word": "upon",
+    "translation": "на",
+    "examples": "Once upon a time. He sat upon the throne."
+  },
+  {
+    "word": "without",
+    "translation": "без",
+    "examples": "I can't live without you. A day without laughter is a day wasted."
+  },
+  {
+    "word": "always",
+    "translation": "всегда",
+    "examples": "I will always love you. He is always late."
+  },
+  {
+    "word": "never",
+    "translation": "никогда",
+    "examples": "I have never been to Japan. Never say never."
+  },
+  {
+    "word": "often",
+    "translation": "часто",
+    "examples": "I often go to the cinema. How often do you exercise?"
+  },
+  {
+    "word": "rarely",
+    "translation": "редко",
+    "examples": "I rarely eat meat. He is rarely at home."
+  },
+  {
+    "word": "seldom",
+    "translation": "изредка",
+    "examples": "We seldom see each other. He seldom smiles."
+  },
+  {
+    "word": "usually",
+    "translation": "обычно",
+    "examples": "I usually wake up at 7 am. What do you usually do on weekends?"
+  },
+  {
+    "word": "already",
+    "translation": "уже",
+    "examples": "I have already finished my homework. Is it 10 o'clock already?"
+  },
+  {
+    "word": "just",
+    "translation": "только что",
+    "examples": "I've just seen him. It's just a joke."
+  },
+  {
+    "word": "still",
+    "translation": "все еще",
+    "examples": "Are you still angry with me? He is still sleeping."
+  },
+  {
+    "word": "yet",
+    "translation": "еще не",
+    "examples": "I haven't finished my work yet. Have you eaten yet?"
+  },
+  {
+    "word": "ever",
+    "translation": "когда-либо",
+    "examples": "Have you ever been to Paris? The best movie I have ever seen."
+  },
+  {
+    "word": "soon",
+    "translation": "скоро",
+    "examples": "See you soon. The train will arrive soon."
+  },
+  {
+    "word": "early",
+    "translation": "рано",
+    "examples": "He arrived early. I'm an early riser."
+  },
+  {
+    "word": "enough",
+    "translation": "достаточно",
+    "examples": "I've had enough. Is it warm enough for you?"
+  },
+  {
+    "word": "quite",
+    "translation": "вполне, довольно",
+    "examples": "It's quite cold today. I'm quite sure about it."
+  },
+  {
+    "word": "really",
+    "translation": "действительно, очень",
+    "examples": "I really like it. Do you really think so?"
+  },
+  {
+    "word": "too",
+    "translation": "тоже, слишком",
+    "examples": "I like it too. It's too expensive."
+  },
+  {
+    "word": "very",
+    "translation": "очень",
+    "examples": "Thank you very much. She is very beautiful."
+  },
+  {
+    "word": "almost",
+    "translation": "почти",
+    "examples": "I'm almost ready. It's almost midnight."
+  },
+  {
+    "word": "also",
+    "translation": "также",
+    "examples": "He is a doctor, and he is also a writer. I'd also like to thank my parents."
+  },
+  {
+    "word": "even",
+    "translation": "даже",
+    "examples": "He can't even remember his name. I was surprised that he even came."
+  },
+  {
+    "word": "however",
+    "translation": "однако",
+    "examples": "He is a good player. However, he often gets injured. However you do it, it will be difficult."
+  },
+  {
+    "word": "therefore",
+    "translation": "поэтому",
+    "examples": "He was injured and therefore unable to play. I think, therefore I am."
+  },
+  {
+    "word": "thus",
+    "translation": "таким образом",
+    "examples": "He didn't study and thus failed the exam. The problem was thus solved."
+  },
+  {
+    "word": "together",
+    "translation": "вместе",
+    "examples": "Let's go together. We work together."
+  },
+  {
+    "word": "apart",
+    "translation": "отдельно",
+    "examples": "They live apart. I can't tell them apart."
+  },
+  {
+    "word": "especially",
+    "translation": "особенно",
+    "examples": "I love all animals, especially dogs. It was especially cold today."
+  },
+  {
+    "word": "particularly",
+    "translation": "в частности",
+    "examples": "I enjoyed the film, particularly the ending. He is a particularly difficult child."
+  },
+  {
+    "word": "certainly",
+    "translation": "конечно, безусловно",
+    "examples": "Can you help me? Certainly. He will certainly win."
+  },
+  {
+    "word": "clearly",
+    "translation": "ясно",
+    "examples": "Speak clearly, please. He clearly doesn't know what he's doing."
+  },
+  {
+    "word": "obviously",
+    "translation": "очевидно",
+    "examples": "Obviously, you are wrong. He was obviously drunk."
+  },
+  {
+    "word": "possibly",
+    "translation": "возможно",
+    "examples": "Can you possibly help me? This is possibly the worst movie ever made."
+  },
+  {
+    "word": "simply",
+    "translation": "просто",
+    "examples": "It's simply a matter of time. I simply don't have the time."
+  },
+  {
+    "word": "rather",
+    "translation": "скорее, довольно",
+    "examples": "I'd rather stay home. It's a rather difficult question."
+  },
+  {
+    "word": "quite",
+    "translation": "вполне",
+    "examples": "He is quite tall. I'm not quite ready."
+  },
+  {
+    "word": "fairly",
+    "translation": "довольно, справедливо",
+    "examples": "It's a fairly common problem. He treated me fairly."
+  },
+  {
+    "word": "truly",
+    "translation": "поистине, искренне",
+    "examples": "A truly remarkable achievement. I am truly sorry."
+  },
+  {
+    "word": "well",
+    "translation": "хорошо",
+    "examples": "I hope you get well soon. Well done!"
+  },
+  {
+    "word": "fast",
+    "translation": "быстро",
+    "examples": "He runs very fast. Time goes by so fast."
+  },
+  {
+    "word": "slowly",
+    "translation": "медленно",
+    "examples": "Please speak more slowly. He walked slowly down the road."
+  },
+  {
+    "word": "quickly",
+    "translation": "быстро",
+    "examples": "Come quickly! He finished his work quickly."
+  },
+  {
+    "word": "easily",
+    "translation": "легко",
+    "examples": "I can do it easily. He gets angry easily."
+  },
+  {
+    "word": "carefully",
+    "translation": "осторожно",
+    "examples": "Drive carefully. Listen carefully to what I say."
+  },
+  {
+    "word": "loudly",
+    "translation": "громко",
+    "examples": "Don't speak so loudly. He laughed loudly."
+  },
+  {
+    "word": "quietly",
+    "translation": "тихо",
+    "examples": "She closed the door quietly. He sat quietly in the corner."
+  },
+  {
+    "word": "happily",
+    "translation": "счастливо",
+    "examples": "They lived happily ever after. She smiled happily."
+  },
+  {
+    "word": "sadly",
+    "translation": "к сожалению, грустно",
+    "examples": "Sadly, he passed away last year. She looked at him sadly."
+  },
+  {
+    "word": "suddenly",
+    "translation": "вдруг, внезапно",
+    "examples": "Suddenly, it started to rain. He suddenly appeared."
+  },
+  {
+    "word": "gradually",
+    "translation": "постепенно",
+    "examples": "The weather is gradually improving. He gradually recovered."
+  },
+  {
+    "word": "finally",
+    "translation": "в конце концов",
+    "examples": "Finally, I've finished my work. The train finally arrived."
+  },
+  {
+    "word": "eventually",
+    "translation": "в итоге",
+    "examples": "Eventually, he agreed. Everything will be fine eventually."
+  },
+  {
+    "word": "immediately",
+    "translation": "немедленно",
+    "examples": "Call me immediately. I knew him immediately."
+  },
+  {
+    "word": "recently",
+    "translation": "недавно",
+    "examples": "I saw him recently. Have you seen any good movies recently?"
+  },
+  {
+    "word": "lately",
+    "translation": "в последнее время",
+    "examples": "I haven't seen you lately. What have you been up to lately?"
+  },
+  {
+    "word": "abroad",
+    "translation": "за границей",
+    "examples": "He is studying abroad. I've never been abroad."
+  },
+  {
+    "word": "forward",
+    "translation": "вперед",
+    "examples": "Look forward. I'm looking forward to meeting you."
+  },
+  {
+    "word": "backward",
+    "translation": "назад",
+    "examples": "He took a step backward. Don't look backward."
+  },
+  {
+    "word": "downstairs",
+    "translation": "внизу, на нижнем этаже",
+    "examples": "I'm going downstairs. The kitchen is downstairs."
+  },
+  {
+    "word": "upstairs",
+    "translation": "наверху, на верхнем этаже",
+    "examples": "He is upstairs in his room. Let's go upstairs."
+  },
+  {
+    "word": "indoors",
+    "translation": "в помещении",
+    "examples": "Let's stay indoors. It's too cold to play indoors."
+  },
+  {
+    "word": "outdoors",
+    "translation": "на открытом воздухе",
+    "examples": "I love the outdoors. Let's have a picnic outdoors."
+  },
+  {
+    "word": "somewhere",
+    "translation": "где-то",
+    "examples": "My keys must be somewhere. Let's go somewhere nice."
+  },
+  {
+    "word": "nowhere",
+    "translation": "нигде",
+    "examples": "I have nowhere to go. This road leads nowhere."
+  },
+  {
+    "word": "anywhere",
+    "translation": "где-нибудь, везде",
+    "examples": "I can't find it anywhere. We can go anywhere you want."
+  },
+  {
+    "word": "everywhere",
+    "translation": "везде",
+    "examples": "I looked everywhere for my keys. There were people everywhere."
+  },
+  {
+    "word": "yes",
+    "translation": "да",
+    "examples": "Yes, I agree. The answer is yes."
+  },
+  {
+    "word": "no",
+    "translation": "нет",
+    "examples": "No, thank you. There is no time."
+  },
+  {
+    "word": "hello",
+    "translation": "привет",
+    "examples": "Hello, how are you? She said hello to me."
+  },
+  {
+    "word": "goodbye",
+    "translation": "до свидания",
+    "examples": "It's time to say goodbye. Goodbye and good luck."
+  },
+  {
+    "word": "please",
+    "translation": "пожалуйста",
+    "examples": "Can you help me, please? Yes, please."
+  },
+  {
+    "word": "thank you",
+    "translation": "спасибо",
+    "examples": "Thank you for your help. A big thank you to everyone."
+  },
+  {
+    "word": "sorry",
+    "translation": "извините",
+    "examples": "I'm sorry, I'm late. I'm sorry to hear that."
+  },
+  {
+    "word": "excuse me",
+    "translation": "простите",
+    "examples": "Excuse me, can you tell me the time? Excuse me, this is my seat."
+  },
+  {
+    "word": "maybe",
+    "translation": "может быть",
+    "examples": "Maybe I'll go, maybe I won't. Maybe you're right."
+  },
+  {
+    "word": "and",
+    "translation": "и",
+    "examples": "Bread and butter. You and me."
+  },
+  {
+    "word": "but",
+    "translation": "но",
+    "examples": "I'm tired but happy. It's a good car, but it's too expensive."
+  },
+  {
+    "word": "or",
+    "translation": "или",
+    "examples": "Tea or coffee? Hurry up, or we'll be late."
+  },
+  {
+    "word": "so",
+    "translation": "поэтому",
+    "examples": "It was raining, so I took an umbrella. He was tired, so he went to bed."
+  },
+  {
+    "word": "because",
+    "translation": "потому что",
+    "examples": "I'm happy because it's my birthday. He failed because he didn't study."
+  },
+  {
+    "word": "if",
+    "translation": "если",
+    "examples": "If you see him, say hello. I'll go if you go."
+  },
+  {
+    "word": "when",
+    "translation": "когда",
+    "examples": "I'll call you when I get home. I was happy when I saw her."
+  },
+  {
+    "word": "while",
+    "translation": "в то время как",
+    "examples": "He was reading while I was watching TV. While I agree with you, I think we should be careful."
+  },
+  {
+    "word": "although",
+    "translation": "хотя",
+    "examples": "Although it was cold, we went for a walk. He is a good person, although he can be rude sometimes."
+  },
+  {
+    "word": "though",
+    "translation": "хотя",
+    "examples": "Though he is young, he is very wise. I enjoyed the movie, though it was a bit long."
+  },
+  {
+    "word": "since",
+    "translation": "поскольку",
+    "examples": "Since you are here, you can help me. Since we have no money, we can't buy it."
+  },
+  {
+    "word": "unless",
+    "translation": "если не",
+    "examples": "I won't go unless you go with me. Don't call me unless it's an emergency."
+  },
+  {
+    "word": "until",
+    "translation": "пока не",
+    "examples": "Wait here until I come back. I didn't know the truth until he told me."
+  },
+  {
+    "word": "after",
+    "translation": "после",
+    "examples": "I'll call you after I finish my work. She left after lunch."
+  },
+  {
+    "word": "before",
+    "translation": "до",
+    "examples": "Brush your teeth before you go to bed. I've seen this movie before."
+  },
+  {
+    "word": "as",
+    "translation": "когда, в то время как",
+    "examples": "As I was walking, I saw him. He works as a waiter."
+  },
+  {
+    "word": "that",
+    "translation": "что",
+    "examples": "I know that you are right. He said that he was tired."
+  },
+  {
+    "word": "what",
+    "translation": "что",
+    "examples": "I don't know what to do. What is your favorite color?"
+  },
+  {
+    "word": "who",
+    "translation": "кто",
+    "examples": "The man who lives next door is a doctor. Who told you that?"
+  },
+  {
+    "word": "which",
+    "translation": "который",
+    "examples": "This is the book which I was telling you about. Which one do you want?"
+  },
+  {
+    "word": "where",
+    "translation": "где",
+    "examples": "This is the place where I was born. Where are you going?"
+  },
+  {
+    "word": "why",
+    "translation": "почему",
+    "examples": "I don't know why he is angry. Why are you crying?"
+  },
+  {
+    "word": "how",
+    "translation": "как",
+    "examples": "Tell me how you did it. How was your day?"
+  },
+  {
+    "word": "one",
+    "translation": "один",
+    "examples": "One plus one is two. One should be careful."
+  },
+  {
+    "word": "two",
+    "translation": "два",
+    "examples": "I have two dogs. It's two o'clock."
+  },
+  {
+    "word": "three",
+    "translation": "три",
+    "examples": "Three wishes. He is three years old."
+  },
+  {
+    "word": "four",
+    "translation": "четыре",
+    "examples": "Four seasons. A table for four."
+  },
+  {
+    "word": "five",
+    "translation": "пять",
+    "examples": "Five fingers. Give me five."
+  },
+  {
+    "word": "six",
+    "translation": "шесть",
+    "examples": "Six months. A six-pack of beer."
+  },
+  {
+    "word": "seven",
+    "translation": "семь",
+    "examples": "The seven wonders of the world. He wakes up at seven."
+  },
+  {
+    "word": "eight",
+    "translation": "восемь",
+    "examples": "An octopus has eight arms. The meeting is at eight."
+  },
+  {
+    "word": "nine",
+    "translation": "девять",
+    "examples": "A cat has nine lives. She is nine months pregnant."
+  },
+  {
+    "word": "ten",
+    "translation": "десять",
+    "examples": "I'll be back in ten minutes. On a scale of one to ten."
+  },
+  {
+    "word": "hundred",
+    "translation": "сто",
+    "examples": "A hundred dollars. Hundreds of people were there."
+  },
+  {
+    "word": "thousand",
+    "translation": "тысяча",
+    "examples": "A thousand miles. Thousands of birds."
+  },
+  {
+    "word": "million",
+    "translation": "миллион",
+    "examples": "A million dollars. Millions of stars."
+  },
+  {
+    "word": "first",
+    "translation": "первый",
+    "examples": "The first day of school. First, I want to thank you."
+  },
+  {
+    "word": "second",
+    "translation": "второй",
+    "examples": "The second chance. Wait a second."
+  },
+  {
+    "word": "third",
+    "translation": "третий",
+    "examples": "The third time's a charm. He came in third."
+  },
+  {
+    "word": "Mr.",
+    "translation": "мистер",
+    "examples": "Mr. Smith is my teacher. Good morning, Mr. President."
+  },
+  {
+    "word": "Mrs.",
+    "translation": "миссис",
+    "examples": "Mrs. Jones is our neighbor. I'd like to introduce you to Mrs. Davis."
+  },
+  {
+    "word": "Ms.",
+    "translation": "миз",
+    "examples": "Ms. Carter is the new manager. This is Ms. Brown."
+  },
+  {
+    "word": "Dr.",
+    "translation": "доктор",
+    "examples": "Dr. Watson, I presume? I have an appointment with Dr. Evans."
+  },
+  {
+    "word": "morning",
+    "translation": "утро",
+    "examples": "I love the morning sun. See you tomorrow morning."
+  },
+  {
+    "word": "afternoon",
+    "translation": "день (после полудня)",
+    "examples": "Good afternoon. I have a meeting this afternoon."
+  },
+  {
+    "word": "evening",
+    "translation": "вечер",
+    "examples": "Good evening. What are you doing this evening?"
+  },
+  {
+    "word": "night",
+    "translation": "ночь",
+    "examples": "I couldn't sleep last night. Have a good night."
+  },
+  {
+    "word": "day",
+    "translation": "день",
+    "examples": "What a lovely day! I work all day."
+  },
+  {
+    "word": "week",
+    "translation": "неделя",
+    "examples": "I'll see you next week. The week has seven days."
+  },
+  {
+    "word": "month",
+    "translation": "месяц",
+    "examples": "My birthday is next month. The last month of the year is December."
+  },
+  {
+    "word": "year",
+    "translation": "год",
+    "examples": "Happy New Year! He is 20 years old."
+  },
+  {
+    "word": "today",
+    "translation": "сегодня",
+    "examples": "Today is my birthday. What are you doing today?"
+  },
+  {
+    "word": "yesterday",
+    "translation": "вчера",
+    "examples": "I saw him yesterday. Yesterday was a busy day."
+  },
+  {
+    "word": "tomorrow",
+    "translation": "завтра",
+    "examples": "See you tomorrow. Tomorrow is another day."
+  },
+  {
+    "word": "Monday",
+    "translation": "понедельник",
+    "examples": "I hate Mondays. The meeting is on Monday."
+  },
+  {
+    "word": "Tuesday",
+    "translation": "вторник",
+    "examples": "I have a dentist appointment on Tuesday. See you on Tuesday."
+  },
+  {
+    "word": "Wednesday",
+    "translation": "среда",
+    "examples": "We play football on Wednesdays. Ash Wednesday."
+  },
+  {
+    "word": "Thursday",
+    "translation": "четверг",
+    "examples": "What are you doing on Thursday? Next Thursday is a holiday."
+  },
+  {
+    "word": "Friday",
+    "translation": "пятница",
+    "examples": "Thank God it's Friday. I'll see you on Friday."
+  },
+  {
+    "word": "Saturday",
+    "translation": "суббота",
+    "examples": "I love Saturdays. Let's go out on Saturday night."
+  },
+  {
+    "word": "Sunday",
+    "translation": "воскресенье",
+    "examples": "What do you do on Sundays? A lazy Sunday afternoon."
+  },
+  {
+    "word": "January",
+    "translation": "январь",
+    "examples": "My birthday is in January. It's cold in January."
+  },
+  {
+    "word": "February",
+    "translation": "февраль",
+    "examples": "Valentine's Day is in February. February is the shortest month."
+  },
+  {
+    "word": "March",
+    "translation": "март",
+    "examples": "Spring begins in March. The Ides of March."
+  },
+  {
+    "word": "April",
+    "translation": "апрель",
+    "examples": "April showers bring May flowers. April Fool's Day."
+  },
+  {
+    "word": "May",
+    "translation": "май",
+    "examples": "I was born in May. May I help you?"
+  },
+  {
+    "word": "June",
+    "translation": "июнь",
+    "examples": "Summer starts in June. They are getting married in June."
+  },
+  {
+    "word": "July",
+    "translation": "июль",
+    "examples": "We are going on holiday in July. The Fourth of July."
+  },
+  {
+    "word": "August",
+    "translation": "август",
+    "examples": "It's very hot in August. My vacation is in August."
+  },
+  {
+    "word": "September",
+    "translation": "сентябрь",
+    "examples": "School starts in September. The leaves turn brown in September."
+  },
+  {
+    "word": "October",
+    "translation": "октябрь",
+    "examples": "Halloween is in October. The weather gets colder in October."
+  },
+  {
+    "word": "November",
+    "translation": "ноябрь",
+    "examples": "Thanksgiving is in November. It often rains in November."
+  },
+  {
+    "word": "December",
+    "translation": "декабрь",
+    "examples": "Christmas is in December. The end of the year."
+  },
+  {
+    "word": "red",
+    "translation": "красный",
+    "examples": "A red apple. Stop at the red light."
+  },
+  {
+    "word": "green",
+    "translation": "зеленый",
+    "examples": "Green grass. Go when the light is green."
+  },
+  {
+    "word": "blue",
+    "translation": "синий",
+    "examples": "The blue sky. I'm feeling blue today."
+  },
+  {
+    "word": "yellow",
+    "translation": "желтый",
+    "examples": "The yellow sun. A yellow taxi."
+  },
+  {
+    "word": "orange",
+    "translation": "оранжевый",
+    "examples": "An orange sunset. I'd like an orange juice."
+  },
+  {
+    "word": "purple",
+    "translation": "фиолетовый",
+    "examples": "A purple flower. Purple is my favorite color."
+  },
+  {
+    "word": "brown",
+    "translation": "коричневый",
+    "examples": "Brown hair. A brown bear."
+  },
+  {
+    "word": "pink",
+    "translation": "розовый",
+    "examples": "A pink dress. She loves pink."
+  },
+  {
+    "word": "gray",
+    "translation": "серый",
+    "examples": "A gray suit. The sky is gray."
+  },
+  {
+    "word": "white",
+    "translation": "белый",
+    "examples": "White snow. A white lie."
+  },
+  {
+    "word": "black",
+    "translation": "черный",
+    "examples": "A black cat. Black coffee."
+  },
+  {
+    "word": "sun",
+    "translation": "солнце",
+    "examples": "The sun is shining. Don't look directly at the sun."
+  },
+  {
+    "word": "moon",
+    "translation": "луна",
+    "examples": "The full moon. The dark side of the moon."
+  },
+  {
+    "word": "star",
+    "translation": "звезда",
+    "examples": "A shining star. Twinkle, twinkle, little star."
+  },
+  {
+    "word": "sky",
+    "translation": "небо",
+    "examples": "The sky is the limit. A clear blue sky."
+  },
+  {
+    "word": "earth",
+    "translation": "земля",
+    "examples": "The planet Earth. Peace on Earth."
+  },
+  {
+    "word": "sea",
+    "translation": "море",
+    "examples": "I love the sea. There are many fish in the sea."
+  },
+  {
+    "word": "ocean",
+    "translation": "океан",
+    "examples": "The Pacific Ocean. The ocean is deep and wide."
+  },
+  {
+    "word": "river",
+    "translation": "река",
+    "examples": "The river flows to the sea. We went for a swim in the river."
+  },
+  {
+    "word": "lake",
+    "translation": "озеро",
+    "examples": "A beautiful lake. Let's go fishing in the lake."
+  },
+  {
+    "word": "mountain",
+    "translation": "гора",
+    "examples": "To climb a mountain. The top of the mountain."
+  },
+  {
+    "word": "forest",
+    "translation": "лес",
+    "examples": "A walk in the forest. A deep, dark forest."
+  },
+  {
+    "word": "tree",
+    "translation": "дерево",
+    "examples": "An old oak tree. Money doesn't grow on trees."
+  },
+  {
+    "word": "flower",
+    "translation": "цветок",
+    "examples": "A beautiful flower. A bunch of flowers."
+  },
+  {
+    "word": "grass",
+    "translation": "трава",
+    "examples": "The grass is always greener on the other side. Don't walk on the grass."
+  },
+  {
+    "word": "animal",
+    "translation": "животное",
+    "examples": "A wild animal. I'm an animal lover."
+  },
+  {
+    "word": "dog",
+    "translation": "собака",
+    "examples": "A man's best friend. Every dog has its day."
+  },
+  {
+    "word": "cat",
+    "translation": "кошка",
+    "examples": "A black cat. Curiosity killed the cat."
+  },
+  {
+    "word": "bird",
+    "translation": "птица",
+    "examples": "A bird in the hand is worth two in the bush. The early bird gets the worm."
+  },
+  {
+    "word": "fish",
+    "translation": "рыба",
+    "examples": "There are plenty of fish in the sea. I don't eat fish."
+  },
+  {
+    "word": "horse",
+    "translation": "лошадь",
+    "examples": "To ride a horse. Don't put the cart before the horse."
+  },
+  {
+    "word": "bear",
+    "translation": "медведь",
+    "examples": "A teddy bear. As hungry as a bear."
+  },
+  {
+    "word": "lion",
+    "translation": "лев",
+    "examples": "The king of the jungle. As brave as a lion."
+  },
+  {
+    "word": "tiger",
+    "translation": "тигр",
+    "examples": "A tiger in the zoo. To have a tiger by the tail."
+  },
+  {
+    "word": "wolf",
+    "translation": "волк",
+    "examples": "A lone wolf. To cry wolf."
+  },
+  {
+    "word": "fox",
+    "translation": "лиса",
+    "examples": "A sly fox. As cunning as a fox."
+  },
+  {
+    "word": "elephant",
+    "translation": "слон",
+    "examples": "An elephant never forgets. The elephant in the room."
+  },
+  {
+    "word": "monkey",
+    "translation": "обезьяна",
+    "examples": "Monkey see, monkey do. To monkey around."
+  },
+  {
+    "word": "snake",
+    "translation": "змея",
+    "examples": "A snake in the grass. I'm afraid of snakes."
+  },
+  {
+    "word": "north",
+    "translation": "север",
+    "examples": "The North Pole. Birds fly north in summer."
+  },
+  {
+    "word": "south",
+    "translation": "юг",
+    "examples": "The South of France. They moved to the south."
+  },
+  {
+    "word": "east",
+    "translation": "восток",
+    "examples": "The sun rises in the east. The Far East."
+  },
+  {
+    "word": "west",
+    "translation": "запад",
+    "examples": "The Wild West. The sun sets in the west."
+  },
+  {
+    "word": "ability",
+    "translation": "способность",
+    "examples": "She has the ability to solve complex problems. This job requires strong analytical abilities."
+  },
+  {
+    "word": "accept",
+    "translation": "принимать",
+    "examples": "Please accept my apology. He accepted the job offer."
+  },
+  {
+    "word": "account",
+    "translation": "счет, отчет",
+    "examples": "I need to open a bank account. Can you give me an account of what happened?"
+  },
+  {
+    "word": "achieve",
+    "translation": "достигать",
+    "examples": "She worked hard to achieve her goals. It's a difficult target to achieve."
+  },
+  {
+    "word": "act",
+    "translation": "действовать",
+    "examples": "We must act now before it's too late. He acted as if he didn't know me."
+  },
+  {
+    "word": "active",
+    "translation": "активный",
+    "examples": "She leads a very active life. He is an active member of the club."
+  },
+  {
+    "word": "activity",
+    "translation": "деятельность",
+    "examples": "There was a lot of activity in the city center. Outdoor activities are good for health."
+  },
+  {
+    "word": "administration",
+    "translation": "администрация",
+    "examples": "The school administration made a new rule. He works in the hospital administration."
+  },
+  {
+    "word": "adult",
+    "translation": "взрослый",
+    "examples": "This movie is for adults only. He is a responsible adult."
+  },
+  {
+    "word": "affect",
+    "translation": "влиять",
+    "examples": "The weather can affect your mood. The new law will affect everyone."
+  },
+  {
+    "word": "afford",
+    "translation": "позволить себе",
+    "examples": "I can't afford a new car. We can't afford to make any mistakes."
+  },
+  {
+    "word": "afraid",
+    "translation": "бояться",
+    "examples": "I'm afraid of spiders. Don't be afraid to ask for help."
+  },
+  {
+    "word": "agency",
+    "translation": "агентство",
+    "examples": "I found a job through a recruitment agency. A government agency is investigating the case."
+  },
+  {
+    "word": "agent",
+    "translation": "агент",
+    "examples": "He is a secret agent. The travel agent booked our flights."
+  },
+  {
+    "word": "agreement",
+    "translation": "соглашение",
+    "examples": "We finally reached an agreement. They signed a trade agreement."
+  },
+  {
+    "word": "ahead",
+    "translation": "впереди",
+    "examples": "The road ahead is blocked. She is always one step ahead."
+  },
+  {
+    "word": "aim",
+    "translation": "цель",
+    "examples": "My main aim in life is to be happy. He aimed the gun at the target."
+  },
+  {
+    "word": "airline",
+    "translation": "авиакомпания",
+    "examples": "Which airline did you fly with? The airline industry is very competitive."
+  },
+  {
+    "word": "alarm",
+    "translation": "тревога, будильник",
+    "examples": "The fire alarm went off. I set my alarm for 6 am."
+  },
+  {
+    "word": "album",
+    "translation": "альбом",
+    "examples": "She showed me her photo album. The band released a new album."
+  },
+  {
+    "word": "alcohol",
+    "translation": "алкоголь",
+    "examples": "You shouldn't drink alcohol and drive. This drink contains no alcohol."
+  },
+  {
+    "word": "alive",
+    "translation": "живой",
+    "examples": "He was lucky to be alive after the accident. The city comes alive at night."
+  },
+  {
+    "word": "amount",
+    "translation": "количество",
+    "examples": "A large amount of money was stolen. We use a small amount of sugar."
+  },
+  {
+    "word": "analysis",
+    "translation": "анализ",
+    "examples": "We need to do a detailed analysis of the problem. The analysis of the data took a long time."
+  },
+  {
+    "word": "ancient",
+    "translation": "древний",
+    "examples": "This is an ancient city. I'm studying ancient history."
+  },
+  {
+    "word": "angry",
+    "translation": "сердитый",
+    "examples": "She was angry with him for being late. An angry crowd gathered outside."
+  },
+  {
+    "word": "announce",
+    "translation": "объявлять",
+    "examples": "They will announce the winner tomorrow. The company announced its annual profit."
+  },
+  {
+    "word": "annual",
+    "translation": "ежегодный",
+    "examples": "The company holds an annual meeting. What is your annual salary?"
+  },
+  {
+    "word": "anxiety",
+    "translation": "беспокойство",
+    "examples": "He suffers from anxiety. There is growing anxiety about the economic situation."
+  },
+  {
+    "word": "anyway",
+    "translation": "в любом случае",
+    "examples": "It's too late now, anyway. I don't want to go, but I will go anyway."
+  },
+  {
+    "word": "apartment",
+    "translation": "квартира",
+    "examples": "She lives in a small apartment. They are looking for a new apartment."
+  },
+  {
+    "word": "appeal",
+    "translation": "обращение, привлекательность",
+    "examples": "The police made an appeal for witnesses. The idea has a lot of appeal."
+  },
+  {
+    "word": "appoint",
+    "translation": "назначать",
+    "examples": "They appointed him as the new manager. A committee was appointed to study the issue."
+  },
+  {
+    "word": "architect",
+    "translation": "архитектор",
+    "examples": "She wants to be an architect. The architect designed a beautiful building."
+  },
+  {
+    "word": "argument",
+    "translation": "спор, аргумент",
+    "examples": "They had a big argument about money. She presented a strong argument for her case."
+  },
+  {
+    "word": "arise",
+    "translation": "возникать",
+    "examples": "A new problem has arisen. Questions arose about his motives."
+  },
+  {
+    "word": "arrange",
+    "translation": "организовывать",
+    "examples": "Can you arrange a meeting for next week? She arranged the flowers in a vase."
+  },
+  {
+    "word": "arrangement",
+    "translation": "договоренность",
+    "examples": "We have an arrangement to meet every Friday. The arrangement of the furniture looked good."
+  },
+  {
+    "word": "arrest",
+    "translation": "арест, арестовывать",
+    "examples": "The police made two arrests. He was arrested for theft."
+  },
+  {
+    "word": "arrival",
+    "translation": "прибытие",
+    "examples": "We waited for his arrival. The arrival of the train was delayed."
+  },
+  {
+    "word": "ashamed",
+    "translation": "стыдно",
+    "examples": "You should be ashamed of yourself. I'm ashamed to admit my mistake."
+  },
+  {
+    "word": "aside",
+    "translation": "в стороне",
+    "examples": "He pulled me aside to talk. She set some money aside for her trip."
+  },
+  {
+    "word": "asleep",
+    "translation": "спящий",
+    "examples": "The baby is asleep. He fell asleep during the movie."
+  },
+  {
+    "word": "aspect",
+    "translation": "аспект",
+    "examples": "We need to consider every aspect of the problem. The most important aspect is safety."
+  },
+  {
+    "word": "assembly",
+    "translation": "собрание, сборка",
+    "examples": "The school has a morning assembly every day. The car assembly line."
+  },
+  {
+    "word": "assess",
+    "translation": "оценивать",
+    "examples": "We need to assess the damage. It's difficult to assess the impact of the new law."
+  },
+  {
+    "word": "assessment",
+    "translation": "оценка",
+    "examples": "What is your assessment of the situation? The teacher made an assessment of my progress."
+  },
+  {
+    "word": "asset",
+    "translation": "актив, ценное качество",
+    "examples": "The company's assets are worth millions. Her language skills are a great asset."
+  },
+  {
+    "word": "assign",
+    "translation": "назначать, присваивать",
+    "examples": "The teacher assigned us a lot of homework. He was assigned to the marketing department."
+  },
+  {
+    "word": "assist",
+    "translation": "помогать",
+    "examples": "He offered to assist me with my work. Can I assist you in any way?"
+  },
+  {
+    "word": "assistance",
+    "translation": "помощь",
+    "examples": "I need your assistance. Thank you for your assistance."
+  },
+  {
+    "word": "assistant",
+    "translation": "помощник",
+    "examples": "She works as a personal assistant. The shop assistant was very helpful."
+  },
+  {
+    "word": "associate",
+    "translation": "ассоциировать, коллега",
+    "examples": "I always associate this song with my childhood. He is a business associate of mine."
+  },
+  {
+    "word": "association",
+    "translation": "ассоциация",
+    "examples": "He is a member of the local business association. There is a strong association between smoking and cancer."
+  },
+  {
+    "word": "assume",
+    "translation": "предполагать",
+    "examples": "I assume you know what you're doing. Let's assume that he is right."
+  },
+  {
+    "word": "assumption",
+    "translation": "предположение",
+    "examples": "Your assumption is incorrect. We are working on the assumption that the project will be approved."
+  },
+  {
+    "word": "assure",
+    "translation": "уверять",
+    "examples": "I can assure you that you are safe. He assured me that he would be on time."
+  },
+  {
+    "word": "atmosphere",
+    "translation": "атмосфера",
+    "examples": "The hotel has a friendly atmosphere. The Earth's atmosphere protects us from the sun."
+  },
+  {
+    "word": "attach",
+    "translation": "прикреплять",
+    "examples": "Please attach a photo to your application. I attached the file to the email."
+  },
+  {
+    "word": "attempt",
+    "translation": "попытка",
+    "examples": "He made an attempt to escape. This is my second attempt at the exam."
+  },
+  {
+    "word": "attend",
+    "translation": "посещать",
+    "examples": "How many people will attend the meeting? I attend classes every day."
+  },
+  {
+    "word": "attention",
+    "translation": "внимание",
+    "examples": "May I have your attention, please? He needs to pay more attention in class."
+  },
+  {
+    "word": "attitude",
+    "translation": "отношение",
+    "examples": "He has a positive attitude towards life. Your attitude is the problem."
+  },
+  {
+    "word": "attract",
+    "translation": "привлекать",
+    "examples": "The city attracts many tourists. Opposites attract."
+  },
+  {
+    "word": "attraction",
+    "translation": "достопримечательность, влечение",
+    "examples": "The main attraction of the city is the castle. I feel a strong attraction to him."
+  },
+  {
+    "word": "attractive",
+    "translation": "привлекательный",
+    "examples": "She is a very attractive woman. The offer is very attractive."
+  },
+  {
+    "word": "automatic",
+    "translation": "автоматический",
+    "examples": "The doors are automatic. It's an automatic response."
+  },
+  {
+    "word": "average",
+    "translation": "средний",
+    "examples": "The average age of the students is 20. He is of average height."
+  },
+  {
+    "word": "award",
+    "translation": "награда",
+    "examples": "He won an award for his book. She received an award for bravery."
+  },
+  {
+    "word": "aware",
+    "translation": "осведомленный",
+    "examples": "Are you aware of the problem? I was not aware that he was sick."
+  },
+  {
+    "word": "awareness",
+    "translation": "осведомленность",
+    "examples": "We need to raise public awareness of the issue. Environmental awareness is growing."
+  },
+  {
+    "word": "awful",
+    "translation": "ужасный",
+    "examples": "The weather is awful today. I feel awful about what happened."
+  },
+  {
+    "word": "baby",
+    "translation": "ребенок, малыш",
+    "examples": "She is having a baby. The baby is sleeping."
+  },
+  {
+    "word": "background",
+    "translation": "фон, происхождение",
+    "examples": "The mountains in the background are beautiful. He comes from a poor background."
+  },
+  {
+    "word": "balance",
+    "translation": "баланс",
+    "examples": "It's important to have a good work-life balance. I lost my balance and fell."
+  },
+  {
+    "word": "ball",
+    "translation": "мяч",
+    "examples": "Let's play with a ball. He kicked the ball into the goal."
+  },
+  {
+    "word": "ban",
+    "translation": "запрет, запрещать",
+    "examples": "There is a ban on smoking in public places. The government banned the use of the chemical."
+  },
+  {
+    "word": "band",
+    "translation": "группа (музыкальная)",
+    "examples": "My favorite band is playing tonight. He plays in a rock band."
+  },
+  {
+    "word": "bank",
+    "translation": "банк",
+    "examples": "I need to go to the bank. The river bank was muddy."
+  },
+  {
+    "word": "bar",
+    "translation": "бар, плитка",
+    "examples": "Let's go to a bar for a drink. I bought a bar of chocolate."
+  },
+  {
+    "word": "base",
+    "translation": "база, основа",
+    "examples": "The company is based in London. We need a solid base for our project."
+  },
+  {
+    "word": "basic",
+    "translation": "основной",
+    "examples": "I have a basic understanding of computers. We need to learn the basic rules."
+  },
+  {
+    "word": "basis",
+    "translation": "основа",
+    "examples": "What is the basis for your conclusion? Trust is the basis of our friendship."
+  },
+  {
+    "word": "basket",
+    "translation": "корзина",
+    "examples": "She carried a basket of fruit. He put the dirty clothes in the basket."
+  },
+  {
+    "word": "bath",
+    "translation": "ванна",
+    "examples": "I'm going to take a bath. The bathroom has a bath and a shower."
+  },
+  {
+    "word": "battle",
+    "translation": "битва",
+    "examples": "He was killed in battle. It was a long battle against cancer."
+  },
+  {
+    "word": "beach",
+    "translation": "пляж",
+    "examples": "Let's go to the beach. We spent the day on the beach."
+  },
+  {
+    "word": "beat",
+    "translation": "бить, побеждать",
+    "examples": "My heart is beating fast. Our team beat them 3-0."
+  },
+  {
+    "word": "bed",
+    "translation": "кровать",
+    "examples": "It's time to go to bed. The hotel room has two beds."
+  },
+  {
+    "word": "bedroom",
+    "translation": "спальня",
+    "examples": "My bedroom is very small. The house has three bedrooms."
+  },
+  {
+    "word": "beer",
+    "translation": "пиво",
+    "examples": "I'd like a glass of beer. He drinks a lot of beer."
+  },
+  {
+    "word": "beginning",
+    "translation": "начало",
+    "examples": "This is just the beginning. At the beginning of the movie, ..."
+  },
+  {
+    "word": "behavior",
+    "translation": "поведение",
+    "examples": "His behavior was unacceptable. The study of animal behavior."
+  },
+  {
+    "word": "belief",
+    "translation": "вера, убеждение",
+    "examples": "I have a strong belief in his abilities. It is my firm belief that..."
+  },
+  {
+    "word": "bell",
+    "translation": "колокол, звонок",
+    "examples": "The church bells are ringing. I heard the doorbell."
+  },
+  {
+    "word": "belong",
+    "translation": "принадлежать",
+    "examples": "This book belongs to me. You belong with us."
+  },
+  {
+    "word": "belt",
+    "translation": "пояс, ремень",
+    "examples": "I need a belt for these trousers. Fasten your seat belt."
+  },
+  {
+    "word": "bench",
+    "translation": "скамейка",
+    "examples": "Let's sit on that bench. He was sitting on a park bench."
+  },
+  {
+    "word": "bend",
+    "translation": "гнуть, сгибать",
+    "examples": "I can't bend my knee. There is a bend in the road."
+  },
+  {
+    "word": "benefit",
+    "translation": "польза, выгода",
+    "examples": "What are the benefits of this new system? I hope you will benefit from this experience."
+  },
+  {
+    "word": "besides",
+    "translation": "кроме того",
+    "examples": "I'm too tired to go out. Besides, it's raining. Who else was there besides you?"
+  },
+  {
+    "word": "best",
+    "translation": "лучший",
+    "examples": "You are my best friend. This is the best movie I've ever seen."
+  },
+  {
+    "word": "bet",
+    "translation": "пари, ставка",
+    "examples": "I bet you can't do it. He lost a lot of money on a bet."
+  },
+  {
+    "word": "bicycle",
+    "translation": "велосипед",
+    "examples": "I go to work by bicycle. He bought a new bicycle."
+  },
+  {
+    "word": "bill",
+    "translation": "счет",
+    "examples": "Can I have the bill, please? I need to pay the electricity bill."
+  },
+  {
+    "word": "biology",
+    "translation": "биология",
+    "examples": "I'm studying biology at university. She is a biology teacher."
+  },
+  {
+    "word": "bit",
+    "translation": "кусочек, немного",
+    "examples": "Can I have a little bit of sugar? Wait a bit."
+  },
+  {
+    "word": "bite",
+    "translation": "кусать",
+    "examples": "Does your dog bite? I took a bite of the apple."
+  },
+  {
+    "word": "blame",
+    "translation": "винить",
+    "examples": "Don't blame me for your mistakes. He is not to blame."
+  },
+  {
+    "word": "blank",
+    "translation": "пустой",
+    "examples": "Write your name on the blank line. My mind went blank."
+  },
+  {
+    "word": "blind",
+    "translation": "слепой",
+    "examples": "He has been blind since birth. Love is blind."
+  },
+  {
+    "word": "block",
+    "translation": "квартал, блок",
+    "examples": "The new apartment block is very tall. Let's walk around the block."
+  },
+  {
+    "word": "blood",
+    "translation": "кровь",
+    "examples": "He lost a lot of blood in the accident. The nurse took a blood sample."
+  },
+  {
+    "word": "blow",
+    "translation": "дуть",
+    "examples": "The wind is blowing hard. She blew out the candles."
+  },
+  {
+    "word": "board",
+    "translation": "доска, совет (директоров)",
+    "examples": "The teacher wrote on the board. The board of directors will meet tomorrow."
+  },
+  {
+    "word": "boat",
+    "translation": "лодка",
+    "examples": "We went for a trip on a boat. The boat sailed across the lake."
+  },
+  {
+    "word": "bone",
+    "translation": "кость",
+    "examples": "The dog is chewing a bone. He broke a bone in his arm."
+  },
+  {
+    "word": "bonus",
+    "translation": "бонус, премия",
+    "examples": "I received a bonus for my hard work. As a bonus, you get a free gift."
+  },
+  {
+    "word": "border",
+    "translation": "граница",
+    "examples": "We crossed the border into Canada. The picture has a beautiful border."
+  },
+  {
+    "word": "born",
+    "translation": "рожденный",
+    "examples": "I was born in 1990. A star is born."
+  },
+  {
+    "word": "borrow",
+    "translation": "одалживать",
+    "examples": "Can I borrow your pen? He borrowed a lot of money from the bank."
+  },
+  {
+    "word": "boss",
+    "translation": "начальник",
+    "examples": "My boss is very demanding. She is her own boss."
+  },
+  {
+    "word": "bother",
+    "translation": "беспокоить",
+    "examples": "Sorry to bother you. Don't bother to call me."
+  },
+  {
+    "word": "bottle",
+    "translation": "бутылка",
+    "examples": "I bought a bottle of water. He opened a bottle of wine."
+  },
+  {
+    "word": "bottom",
+    "translation": "дно, низ",
+    "examples": "The keys are at the bottom of my bag. We started from the bottom."
+  },
+  {
+    "word": "bowl",
+    "translation": "миска",
+    "examples": "I ate a bowl of soup. Put the salad in a big bowl."
+  },
+  {
+    "word": "brain",
+    "translation": "мозг",
+    "examples": "Use your brain! The human brain is very complex."
+  },
+  {
+    "word": "branch",
+    "translation": "ветка, филиал",
+    "examples": "A bird was sitting on a branch. The bank has branches all over the country."
+  },
+  {
+    "word": "brand",
+    "translation": "бренд, марка",
+    "examples": "What brand of car do you drive? This is a very popular brand."
+  },
+  {
+    "word": "bread",
+    "translation": "хлеб",
+    "examples": "I bought a loaf of bread. Can you slice the bread?"
+  },
+  {
+    "word": "break",
+    "translation": "ломать, перерыв",
+    "examples": "Be careful not to break the glass. Let's take a break."
+  },
+  {
+    "word": "breakfast",
+    "translation": "завтрак",
+    "examples": "What did you have for breakfast? I usually have coffee and toast for breakfast."
+  },
+  {
+    "word": "breast",
+    "translation": "грудь",
+    "examples": "Breast cancer is a serious disease. The baby was feeding at its mother's breast."
+  },
+  {
+    "word": "breath",
+    "translation": "дыхание",
+    "examples": "Take a deep breath. I was out of breath after running."
+  },
+  {
+    "word": "breathe",
+    "translation": "дышать",
+    "examples": "I can't breathe. Just breathe deeply and relax."
+  },
+  {
+    "word": "bridge",
+    "translation": "мост",
+    "examples": "We crossed the bridge to the other side. Let's build a bridge between our cultures."
+  },
+  {
+    "word": "brief",
+    "translation": "краткий",
+    "examples": "I made a brief speech. Can you give me a brief summary?"
+  },
+  {
+    "word": "brilliant",
+    "translation": "блестящий",
+    "examples": "That's a brilliant idea! She is a brilliant scientist."
+  },
+  {
+    "word": "bring",
+    "translation": "приносить",
+    "examples": "Don't forget to bring your book. What did you bring me?"
+  },
+  {
+    "word": "broad",
+    "translation": "широкий",
+    "examples": "He has broad shoulders. We need to have a broad discussion."
+  },
+  {
+    "word": "brother",
+    "translation": "брат",
+    "examples": "He is my older brother. Do you have any brothers or sisters?"
+  },
+  {
+    "word": "brush",
+    "translation": "щетка, чистить щеткой",
+    "examples": "I need to brush my hair. Don't forget to brush your teeth."
+  },
+  {
+    "word": "budget",
+    "translation": "бюджет",
+    "examples": "We need to stick to the budget. The government announced the annual budget."
+  },
+  {
+    "word": "bug",
+    "translation": "жук, ошибка (в программе)",
+    "examples": "There is a bug in the software. I found a bug in my salad."
+  },
+  {
+    "word": "building",
+    "translation": "здание",
+    "examples": "This is a very old building. The building was destroyed in the fire."
+  },
+  {
+    "word": "bunch",
+    "translation": "пучок, связка",
+    "examples": "I bought a bunch of bananas. A bunch of keys."
+  },
+  {
+    "word": "burn",
+    "translation": "гореть, жечь",
+    "examples": "The fire is burning brightly. I burned my hand on the stove."
+  },
+  {
+    "word": "bury",
+    "translation": "хоронить, закапывать",
+    "examples": "The dog buried its bone in the garden. He was buried in the local cemetery."
+  },
+  {
+    "word": "bus",
+    "translation": "автобус",
+    "examples": "I take the bus to work. Let's wait for the next bus."
+  },
+  {
+    "word": "bush",
+    "translation": "куст",
+    "examples": "The cat is hiding in the bushes. A rose bush."
+  },
+  {
+    "word": "button",
+    "translation": "кнопка, пуговица",
+    "examples": "Press the red button to start. I lost a button from my shirt."
+  },
+  {
+    "word": "buyer",
+    "translation": "покупатель",
+    "examples": "We found a buyer for our house. The buyer is responsible for shipping costs."
+  },
+  {
+    "word": "cabinet",
+    "translation": "шкаф, кабинет (министров)",
+    "examples": "The kitchen cabinets are new. The Prime Minister appointed a new cabinet."
+  },
+  {
+    "word": "cable",
+    "translation": "кабель",
+    "examples": "I need a longer cable for my computer. They are laying a new fiber optic cable."
+  },
+  {
+    "word": "cake",
+    "translation": "торт, пирожное",
+    "examples": "She baked a delicious cake. Would you like a piece of cake?"
+  },
+  {
+    "word": "calculate",
+    "translation": "вычислять",
+    "examples": "Can you calculate the total cost? We need to calculate the risks."
+  },
+  {
+    "word": "campaign",
+    "translation": "кампания",
+    "examples": "He is running a political campaign. We launched a new advertising campaign."
+  },
+  {
+    "word": "campus",
+    "translation": "кампус, университетский городок",
+    "examples": "The university campus is very large. I live on campus."
+  },
+  {
+    "word": "cancer",
+    "translation": "рак",
+    "examples": "He died of cancer. Smoking can cause lung cancer."
+  },
+  {
+    "word": "candidate",
+    "translation": "кандидат",
+    "examples": "He is a candidate for the job. There are three candidates in the election."
+  },
+  {
+    "word": "cap",
+    "translation": "кепка, крышка",
+    "examples": "He was wearing a baseball cap. Don't forget to put the cap back on the bottle."
+  },
+  {
+    "word": "capacity",
+    "translation": "вместимость, способность",
+    "examples": "The stadium has a seating capacity of 50,000. She has a great capacity for learning."
+  },
+  {
+    "word": "capital",
+    "translation": "столица, капитал",
+    "examples": "Paris is the capital of France. We need to raise more capital for our business."
+  },
+  {
+    "word": "captain",
+    "translation": "капитан",
+    "examples": "He is the captain of the football team. The captain of the ship."
+  },
+  {
+    "word": "capture",
+    "translation": "захватывать",
+    "examples": "The police captured the criminals. The photo captures her beauty."
+  },
+  {
+    "word": "card",
+    "translation": "карта",
+    "examples": "Can I pay by credit card? He gave me his business card."
+  },
+  {
+    "word": "career",
+    "translation": "карьера",
+    "examples": "She has a successful career in marketing. I'm thinking about a career change."
+  },
+  {
+    "word": "cash",
+    "translation": "наличные",
+    "examples": "Do you have any cash on you? I'd like to pay in cash."
+  },
+  {
+    "word": "cast",
+    "translation": "бросать, актерский состав",
+    "examples": "He cast a stone into the water. The movie has a great cast."
+  },
+  {
+    "word": "catch",
+    "translation": "ловить",
+    "examples": "I need to catch the bus. He caught the ball with one hand."
+  },
+  {
+    "word": "category",
+    "translation": "категория",
+    "examples": "The books are divided into different categories. This falls into a special category."
+  },
+  {
+    "word": "cause",
+    "translation": "причина, вызывать",
+    "examples": "What was the cause of the accident? Smoking can cause serious health problems."
+  },
+  {
+    "word": "ceiling",
+    "translation": "потолок",
+    "examples": "The ceiling is very high. There is a spider on the ceiling."
+  },
+  {
+    "word": "celebrate",
+    "translation": "праздновать",
+    "examples": "How do you celebrate your birthday? We are celebrating our anniversary."
+  },
+  {
+    "word": "celebration",
+    "translation": "празднование",
+    "examples": "The party was a celebration of their success. The whole town joined in the celebration."
+  },
+  {
+    "word": "cell",
+    "translation": "клетка (биол.), ячейка",
+    "examples": "The human body is made of cells. He was locked in a prison cell."
+  },
+  {
+    "word": "center",
+    "translation": "центр",
+    "examples": "I live in the city center. The shopping center is very busy."
+  },
+  {
+    "word": "central",
+    "translation": "центральный",
+    "examples": "The central government has a lot of power. This is a central point of the discussion."
+  },
+  {
+    "word": "century",
+    "translation": "век, столетие",
+    "examples": "We are living in the 21st century. The castle was built in the 15th century."
+  },
+  {
+    "word": "ceremony",
+    "translation": "церемония",
+    "examples": "The wedding ceremony was beautiful. The opening ceremony of the Olympics."
+  },
+  {
+    "word": "chairman",
+    "translation": "председатель",
+    "examples": "He is the chairman of the board. The chairman opened the meeting."
+  },
+  {
+    "word": "challenge",
+    "translation": "вызов, сложная задача",
+    "examples": "I'm ready for a new challenge. The job is a big challenge."
+  },
+  {
+    "word": "champion",
+    "translation": "чемпион",
+    "examples": "He is the world champion. She is a champion of human rights."
+  },
+  {
+    "word": "chance",
+    "translation": "шанс",
+    "examples": "This is your last chance. I met her by chance."
+  },
+  {
+    "word": "channel",
+    "translation": "канал",
+    "examples": "What's on the other channel? The English Channel separates England from France."
+  },
+  {
+    "word": "chapter",
+    "translation": "глава",
+    "examples": "I read the first chapter of the book. This is a new chapter in my life."
+  },
+  {
+    "word": "character",
+    "translation": "персонаж, характер",
+    "examples": "He is the main character in the story. She has a strong character."
+  },
+  {
+    "word": "characteristic",
+    "translation": "характеристика, особенность",
+    "examples": "What are the main characteristics of this product? Generosity is one of his best characteristics."
+  },
+  {
+    "word": "charge",
+    "translation": "плата, обвинение",
+    "examples": "What is the charge for this service? He was arrested on a charge of theft."
+  },
+  {
+    "word": "charity",
+    "translation": "благотворительность",
+    "examples": "She works for a charity. The concert is for charity."
+  },
+  {
+    "word": "chart",
+    "translation": "диаграмма, график",
+    "examples": "The chart shows the sales figures. This song is at the top of the charts."
+  },
+  {
+    "word": "chase",
+    "translation": "гнаться",
+    "examples": "The police chased the robber. The cat chased the mouse."
+  },
+  {
+    "word": "chat",
+    "translation": "болтать",
+    "examples": "I had a long chat with my friend. Let's chat online later."
+  },
+  {
+    "word": "cheap",
+    "translation": "дешевый",
+    "examples": "This is a cheap hotel. Life is cheap in some countries."
+  },
+  {
+    "word": "check",
+    "translation": "проверять, чек",
+    "examples": "Please check your work carefully. Can I have the check, please?"
+  },
+  {
+    "word": "cheek",
+    "translation": "щека",
+    "examples": "She kissed him on the cheek. He has rosy cheeks."
+  },
+  {
+    "word": "cheese",
+    "translation": "сыр",
+    "examples": "I love cheese. Would you like some cheese and crackers?"
+  },
+  {
+    "word": "chemical",
+    "translation": "химический",
+    "examples": "This is a dangerous chemical. The factory produces industrial chemicals."
+  },
+  {
+    "word": "chemistry",
+    "translation": "химия",
+    "examples": "I'm studying chemistry at school. There is a strong chemistry between them."
+  },
+  {
+    "word": "chest",
+    "translation": "грудь, сундук",
+    "examples": "He has a pain in his chest. She kept her old letters in a wooden chest."
+  },
+  {
+    "word": "chicken",
+    "translation": "курица",
+    "examples": "I'll have the roast chicken. Don't be a chicken!"
+  },
+  {
+    "word": "chief",
+    "translation": "главный, шеф",
+    "examples": "He is the chief of police. What is the chief reason for your decision?"
+  },
+  {
+    "word": "choice",
+    "translation": "выбор",
+    "examples": "You have no choice. It was a difficult choice to make."
+  },
+  {
+    "word": "choose",
+    "translation": "выбирать",
+    "examples": "You have to choose between these two options. I chose the red dress."
+  },
+  {
+    "word": "church",
+    "translation": "церковь",
+    "examples": "We go to church every Sunday. This is a very old church."
+  },
+  {
+    "word": "cigarette",
+    "translation": "сигарета",
+    "examples": "He was smoking a cigarette. A pack of cigarettes."
+  },
+  {
+    "word": "circle",
+    "translation": "круг",
+    "examples": "We sat in a circle. Draw a circle on the paper."
+  },
+  {
+    "word": "circumstance",
+    "translation": "обстоятельство",
+    "examples": "Under the circumstances, we have to cancel the trip. He was a victim of circumstance."
+  },
+  {
+    "word": "cite",
+    "translation": "цитировать",
+    "examples": "He cited a famous poem in his speech. Can you cite any examples?"
+  },
+  {
+    "word": "citizen",
+    "translation": "гражданин",
+    "examples": "He is a French citizen. It is your duty as a citizen to vote."
+  },
+  {
+    "word": "civil",
+    "translation": "гражданский",
+    "examples": "The country is in a state of civil war. She is an expert in civil law."
+  },
+  {
+    "word": "claim",
+    "translation": "утверждать, требование",
+    "examples": "He claims to be a doctor. You can make a claim on your insurance."
+  },
+  {
+    "word": "class",
+    "translation": "класс",
+    "examples": "I have an English class at 10 am. She comes from a middle-class family."
+  },
+  {
+    "word": "classic",
+    "translation": "классический",
+    "examples": "This movie is a classic. He loves classic literature."
+  },
+  {
+    "word": "classroom",
+    "translation": "классная комната",
+    "examples": "The students are in the classroom. The classroom was noisy."
+  },
+  {
+    "word": "clause",
+    "translation": "пункт (договора)",
+    "examples": "There is a special clause in the contract. A sentence can have several clauses."
+  },
+  {
+    "word": "client",
+    "translation": "клиент",
+    "examples": "The lawyer met with his client. We have many important clients."
+  },
+  {
+    "word": "climate",
+    "translation": "климат",
+    "examples": "The climate is changing rapidly. The country has a warm climate."
+  },
+  {
+    "word": "climb",
+    "translation": "взбираться",
+    "examples": "He climbed the mountain. The cat climbed up the tree."
+  },
+  {
+    "word": "clock",
+    "translation": "часы (настенные)",
+    "examples": "The clock on the wall says it's ten o'clock. My alarm clock woke me up."
+  },
+  {
+    "word": "close",
+    "translation": "закрывать, близкий",
+    "examples": "Please close the door. We are very close friends."
+  },
+  {
+    "word": "closely",
+    "translation": "близко, тесно",
+    "examples": "Listen closely to what I'm saying. We work closely together."
+  },
+  {
+    "word": "closet",
+    "translation": "шкаф",
+    "examples": "I hung my coat in the closet. The closet is full of clothes."
+  },
+  {
+    "word": "cloth",
+    "translation": "ткань",
+    "examples": "This dress is made of a soft cloth. Please wipe the table with a damp cloth."
+  },
+  {
+    "word": "clothes",
+    "translation": "одежда",
+    "examples": "I need to buy some new clothes. Put on some warm clothes."
+  },
+  {
+    "word": "cloud",
+    "translation": "облако",
+    "examples": "The sun is behind a cloud. There isn't a cloud in the sky."
+  },
+  {
+    "word": "club",
+    "translation": "клуб",
+    "examples": "I'm a member of a book club. Let's go to a club tonight."
+  },
+  {
+    "word": "clue",
+    "translation": "улика, подсказка",
+    "examples": "The police have no clues. I have no clue what you're talking about."
+  },
+  {
+    "word": "coach",
+    "translation": "тренер, автобус",
+    "examples": "He is the coach of the national team. We traveled by coach from London to Paris."
+  },
+  {
+    "word": "coal",
+    "translation": "уголь",
+    "examples": "We use coal to heat our house. The train was powered by coal."
+  },
+  {
+    "word": "coast",
+    "translation": "побережье",
+    "examples": "We drove along the coast. The town is on the south coast."
+  },
+  {
+    "word": "coat",
+    "translation": "пальто",
+    "examples": "Put on your coat, it's cold outside. I left my coat at the restaurant."
+  },
+  {
+    "word": "code",
+    "translation": "код",
+    "examples": "I need to write some code for the website. What is the dress code for the party?"
+  },
+  {
+    "word": "coffee",
+    "translation": "кофе",
+    "examples": "I'd like a cup of coffee. I can't start my day without coffee."
+  },
+  {
+    "word": "cognitive",
+    "translation": "когнитивный, познавательный",
+    "examples": "The study focuses on cognitive development in children. He has some cognitive impairment."
+  },
+  {
+    "word": "coin",
+    "translation": "монета",
+    "examples": "I found a coin on the street. He tossed a coin to decide."
+  },
+  {
+    "word": "collapse",
+    "translation": "рухнуть, коллапс",
+    "examples": "The building collapsed in the earthquake. She collapsed from exhaustion."
+  },
+  {
+    "word": "colleague",
+    "translation": "коллега",
+    "examples": "I'm going for lunch with my colleagues. She is a respected colleague."
+  },
+  {
+    "word": "collect",
+    "translation": "собирать",
+    "examples": "I collect stamps. The police are collecting evidence."
+  },
+  {
+    "word": "collection",
+    "translation": "коллекция",
+    "examples": "He has a large collection of old coins. The museum has a collection of modern art."
+  },
+  {
+    "word": "collective",
+    "translation": "коллективный",
+    "examples": "It was a collective decision. We made a collective effort to finish the project."
+  },
+  {
+    "word": "combination",
+    "translation": "сочетание, комбинация",
+    "examples": "The combination of colors is beautiful. The lock has a four-digit combination."
+  },
+  {
+    "word": "combine",
+    "translation": "сочетать",
+    "examples": "We need to combine our efforts. The movie combines comedy and romance."
+  },
+  {
+    "word": "comedy",
+    "translation": "комедия",
+    "examples": "I love watching comedies. The play was a comedy."
+  },
+  {
+    "word": "comfort",
+    "translation": "комфорт, утешение",
+    "examples": "I live in comfort. She found comfort in her friends."
+  },
+  {
+    "word": "comfortable",
+    "translation": "удобный",
+    "examples": "This chair is very comfortable. I don't feel comfortable talking about it."
+  },
+  {
+    "word": "command",
+    "translation": "команда, командовать",
+    "examples": "The officer gave a command. He has a good command of the English language."
+  },
+  {
+    "word": "comment",
+    "translation": "комментарий",
+    "examples": "Do you have any comments on this? She made a nice comment about my dress."
+  },
+  {
+    "word": "commercial",
+    "translation": "коммерческий, рекламный ролик",
+    "examples": "This is a commercial enterprise. I hate watching commercials on TV."
+  },
+  {
+    "word": "commission",
+    "translation": "комиссия",
+    "examples": "He gets a commission on every sale. The government set up a commission to investigate the issue."
+  },
+  {
+    "word": "commit",
+    "translation": "совершать (преступление)",
+    "examples": "He committed a serious crime. I'm not ready to commit to a long-term relationship."
+  },
+  {
+    "word": "commitment",
+    "translation": "обязательство",
+    "examples": "Marriage is a big commitment. We have a commitment to our customers."
+  },
+  {
+    "word": "committee",
+    "translation": "комитет",
+    "examples": "The committee will make a decision next week. I'm on the organizing committee."
+  },
+  {
+    "word": "communication",
+    "translation": "общение, связь",
+    "examples": "Communication is key in a relationship. The storm disrupted communication lines."
+  },
+  {
+    "word": "comparison",
+    "translation": "сравнение",
+    "examples": "In comparison to other cities, this one is very safe. The article makes a comparison between the two systems."
+  },
+  {
+    "word": "compete",
+    "translation": "соревноваться",
+    "examples": "They are competing for the first prize. We can't compete with their prices."
+  },
+  {
+    "word": "competition",
+    "translation": "соревнование, конкуренция",
+    "examples": "She won the swimming competition. There is a lot of competition for this job."
+  },
+  {
+    "word": "competitive",
+    "translation": "конкурентоспособный",
+    "examples": "The market is very competitive. She is a very competitive person."
+  },
+  {
+    "word": "competitor",
+    "translation": "конкурент, соперник",
+    "examples": "Our main competitor has launched a new product. There were over 100 competitors in the race."
+  },
+  {
+    "word": "complain",
+    "translation": "жаловаться",
+    "examples": "He is always complaining about something. I'm going to complain to the manager."
+  },
+  {
+    "word": "complaint",
+    "translation": "жалоба",
+    "examples": "I want to make a complaint. We have received several complaints about the noise."
+  },
+  {
+    "word": "complete",
+    "translation": "завершать, полный",
+    "examples": "I need to complete this task by Friday. The set is now complete."
+  },
+  {
+    "word": "completely",
+    "translation": "полностью",
+    "examples": "I completely agree with you. The building was completely destroyed."
+  },
+  {
+    "word": "complex",
+    "translation": "сложный",
+    "examples": "This is a complex problem. The instructions are too complex."
+  },
+  {
+    "word": "complexity",
+    "translation": "сложность",
+    "examples": "I was amazed by the complexity of the design. The complexity of the issue is high."
+  },
+  {
+    "word": "complicated",
+    "translation": "сложный, запутанный",
+    "examples": "The situation is very complicated. It's a complicated process."
+  },
+  {
+    "word": "component",
+    "translation": "компонент, составляющая",
+    "examples": "Trust is a key component of a good relationship. The computer has many electronic components."
+  },
+  {
+    "word": "compose",
+    "translation": "сочинять, составлять",
+    "examples": "He composed this piece of music. The committee is composed of ten members."
+  },
+  {
+    "word": "composition",
+    "translation": "сочинение, композиция",
+    "examples": "The teacher asked us to write a composition. I love the composition of this photograph."
+  },
+  {
+    "word": "compound",
+    "translation": "соединение, составной",
+    "examples": "Water is a compound of hydrogen and oxygen. 'High school' is a compound word."
+  },
+  {
+    "word": "comprehensive",
+    "translation": "всеобъемлющий",
+    "examples": "The book provides a comprehensive guide to the subject. We offer a comprehensive range of services."
+  },
+  {
+    "word": "computer",
+    "translation": "компьютер",
+    "examples": "I need to buy a new computer. He works with computers."
+  },
+  {
+    "word": "concentrate",
+    "translation": "концентрироваться",
+    "examples": "I can't concentrate with all this noise. You need to concentrate on your work."
+  },
+  {
+    "word": "concentration",
+    "translation": "концентрация",
+    "examples": "This task requires a lot of concentration. There is a high concentration of students in this area."
+  },
+  {
+    "word": "concept",
+    "translation": "концепция, понятие",
+    "examples": "It's a difficult concept to understand. The basic concept is very simple."
+  },
+  {
+    "word": "concern",
+    "translation": "беспокойство, касаться",
+    "examples": "There is growing concern about climate change. This decision concerns all of us."
+  },
+  {
+    "word": "concerned",
+    "translation": "обеспокоенный",
+    "examples": "I'm concerned about your health. As far as I'm concerned, the problem is solved."
+  },
+  {
+    "word": "concert",
+    "translation": "концерт",
+    "examples": "Are you going to the concert tonight? The band gave a great concert."
+  },
+  {
+    "word": "conclude",
+    "translation": "заключать, делать вывод",
+    "examples": "What can we conclude from this? The report concludes that the company is profitable."
+  },
+  {
+    "word": "conclusion",
+    "translation": "заключение, вывод",
+    "examples": "In conclusion, I would like to thank you all. We came to the conclusion that he was lying."
+  },
+  {
+    "word": "concrete",
+    "translation": "бетон, конкретный",
+    "examples": "The walls are made of concrete. I need some concrete evidence."
+  },
+  {
+    "word": "condition",
+    "translation": "условие, состояние",
+    "examples": "The car is in good condition. One of the conditions of the contract is..."
+  },
+  {
+    "word": "conduct",
+    "translation": "проводить (исследование)",
+    "examples": "They are conducting an experiment. His conduct at the meeting was unprofessional."
+  },
+  {
+    "word": "conference",
+    "translation": "конференция",
+    "examples": "I'm attending a conference next week. The press conference will be held tomorrow."
+  },
+  {
+    "word": "confidence",
+    "translation": "уверенность",
+    "examples": "She has a lot of confidence in her abilities. I can tell you this in confidence."
+  },
+  {
+    "word": "confident",
+    "translation": "уверенный",
+    "examples": "I'm confident that we will win. She is a confident and ambitious woman."
+  },
+  {
+    "word": "confirm",
+    "translation": "подтверждать",
+    "examples": "Can you confirm your booking? The results confirm our theory."
+  },
+  {
+    "word": "conflict",
+    "translation": "конфликт",
+    "examples": "There is a conflict between the two countries. I have a conflict of interest."
+  },
+  {
+    "word": "confront",
+    "translation": "противостоять, сталкиваться",
+    "examples": "You need to confront your fears. She decided to confront him about his lies."
+  },
+  {
+    "word": "confusion",
+    "translation": "путаница, замешательство",
+    "examples": "There was a lot of confusion about the new rules. To avoid confusion, please write your name clearly."
+  }
+]
