@@ -113,14 +113,14 @@ th:hover .sort-icon .lucide-chevrons-up-down {
     /* Настройка ширины колонок для мобильных */
     #wordsTable th:nth-child(1),
     #wordsTable td:nth-child(1) {
-        width: 27% !important; /* Слово - 26% */
+        width: 28% !important; /* Слово - 26% */
         padding-left: 0.75rem !important; /* Дополнительный отступ слева для английских слов */
         padding-right: 0.5rem !important;
     }
     
     #wordsTable th:nth-child(2),
     #wordsTable td:nth-child(2) {
-        width: 35% !important; /* Перевод - 36% */
+        width: 34% !important; /* Перевод - 36% */
         padding-left: 0.5rem !important; /* Дополнительный отступ для перевода */
         padding-right: 0.5rem !important;
     }
